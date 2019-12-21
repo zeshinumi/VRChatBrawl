@@ -1,0 +1,39 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Characters/Zeshin/Zesh_airKick.tpsheet
+- Assets/Characters/Zeshin/Zesh_Hit.tpsheet
+- Assets/Characters/Zeshin/Zesh_jump.tpsheet
+- Assets/Characters/Zeshin/Zesh_KnockedDown.tpsheet
+- Assets/Characters/Zeshin/Zesh_quickCombo.tpsheet
+- Assets/Characters/Zeshin/Zesh_Recover.tpsheet
+- Assets/Characters/Zeshin/Zesh_walk.tpsheet
+- Assets/Characters/Zeshin/Zeshin_AirHeavy.tpsheet
+- Assets/Characters/Zeshin/Zeshin_HeavyAtk.tpsheet
+- Assets/Characters/Zeshin/Zeshin_Idle.tpsheet
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+textureFileNames:
+- Assets/Characters/Zeshin/Zesh_airKick.png
+- Assets/Characters/Zeshin/Zesh_Hit.png
+- Assets/Characters/Zeshin/Zesh_jump.png
+- Assets/Characters/Zeshin/Zesh_KnockedDown.png
+- Assets/Characters/Zeshin/Zesh_quickCombo.png
+- Assets/Characters/Zeshin/Zesh_Recover.png
+- Assets/Characters/Zeshin/Zesh_walk.png
+- Assets/Characters/Zeshin/Zeshin_AirHeavy.png
+- Assets/Characters/Zeshin/Zeshin_HeavyAtk.png
+- Assets/Characters/Zeshin/Zeshin_Idle.png
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+enableDebugOutput: 0

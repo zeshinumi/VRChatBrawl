@@ -1,0 +1,1927 @@
+fileFormatVersion: 2
+guid: f50c843b41ce10745b1d35ae8d2c02e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -824054740171501400
+    second: RCR_Idle
+  - first:
+      213: -231558752197327494
+    second: RCR_Walk_1
+  - first:
+      213: 1958998406139918090
+    second: RCR_Walk_2
+  - first:
+      213: -7985835692787539202
+    second: RCR_Run
+  - first:
+      213: 8342690355468997405
+    second: RCRSprite_4
+  - first:
+      213: 2038527864636276742
+    second: RCR_Jump
+  - first:
+      213: 2054108400542405412
+    second: RCR_Land
+  - first:
+      213: 1565807006560123052
+    second: RCRSprite_7
+  - first:
+      213: -4465517848321313364
+    second: RCRSprite_8
+  - first:
+      213: 9042972564562274975
+    second: RCRSprite_9
+  - first:
+      213: -7692802549510374880
+    second: RCRSprite_10
+  - first:
+      213: -931283967015904679
+    second: RCRSprite_11
+  - first:
+      213: 2662327506260894825
+    second: RCRSprite_12
+  - first:
+      213: -7510842043808931786
+    second: RCRSprite_13
+  - first:
+      213: -55385228977973503
+    second: RCRSprite_14
+  - first:
+      213: 7156475993760669411
+    second: RCRSprite_15
+  - first:
+      213: -2452843939083103349
+    second: RCRSprite_16
+  - first:
+      213: 5297946225946977226
+    second: RCRSprite_17
+  - first:
+      213: -1040664678489542479
+    second: RCRSprite_18
+  - first:
+      213: -1013128406894008627
+    second: RCRSprite_19
+  - first:
+      213: -7279174258416032954
+    second: RCRSprite_20
+  - first:
+      213: -599993258213304860
+    second: RCRSprite_21
+  - first:
+      213: -1148236774196818486
+    second: RCRSprite_22
+  - first:
+      213: 7463257905564014236
+    second: RCRSprite_23
+  - first:
+      213: 5602518681610947491
+    second: RCRSprite_24
+  - first:
+      213: 4257205765929308640
+    second: RCRSprite_25
+  - first:
+      213: -8224052059294988012
+    second: RCRSprite_26
+  - first:
+      213: 5086247470827595690
+    second: RCRSprite_27
+  - first:
+      213: -7416899467372970548
+    second: RCRSprite_28
+  - first:
+      213: 6424205425774840505
+    second: RCRSprite_29
+  - first:
+      213: -2471083659641074774
+    second: RCRSprite_30
+  - first:
+      213: 7103947193669346714
+    second: RCRSprite_31
+  - first:
+      213: -4312936855874484062
+    second: RCRSprite_32
+  - first:
+      213: 3314453919296241025
+    second: RCRSprite_33
+  - first:
+      213: -3302630308432879691
+    second: RCRSprite_34
+  - first:
+      213: 2373564302026194854
+    second: RCRSprite_35
+  - first:
+      213: 6354291235924260763
+    second: RCRSprite_36
+  - first:
+      213: 6382154427687944055
+    second: RCRSprite_37
+  - first:
+      213: -3384977228516652425
+    second: RCRSprite_38
+  - first:
+      213: 6204862105710272511
+    second: RCRSprite_39
+  - first:
+      213: -7164953315090986769
+    second: RCRSprite_40
+  - first:
+      213: -5907139334142804804
+    second: RCRSprite_41
+  - first:
+      213: -157615671466703392
+    second: RCRSprite_42
+  - first:
+      213: -5491928705736656254
+    second: RCRSprite_43
+  - first:
+      213: 6840669504757170474
+    second: RCRSprite_44
+  - first:
+      213: 4208035961115780535
+    second: RCRSprite_45
+  - first:
+      213: -4105414631332242360
+    second: RCRSprite_46
+  - first:
+      213: 8257718994276427156
+    second: RCRSprite_47
+  - first:
+      213: 2458784753604621899
+    second: RCRSprite_48
+  - first:
+      213: 3961249515281478083
+    second: RCRSprite_49
+  - first:
+      213: 4881235326505668801
+    second: RCRSprite_50
+  - first:
+      213: -6475625491583715891
+    second: RCRSprite_51
+  - first:
+      213: 7928551259089997235
+    second: RCRSprite_52
+  - first:
+      213: -1676272432585233737
+    second: RCRSprite_53
+  - first:
+      213: -7434374404798775946
+    second: RCRSprite_54
+  - first:
+      213: -7596879179807160603
+    second: RCRSprite_55
+  - first:
+      213: -5767461923292107139
+    second: RCRSprite_56
+  - first:
+      213: -4873522203739052087
+    second: RCRSprite_57
+  - first:
+      213: 8068058192056283823
+    second: RCRSprite_58
+  - first:
+      213: -7275860014881259715
+    second: RCRSprite_59
+  - first:
+      213: 3823915716472815520
+    second: RCRSprite_60
+  - first:
+      213: 6087742059657183290
+    second: RCRSprite_61
+  - first:
+      213: 9185498194178271521
+    second: RCRSprite_62
+  - first:
+      213: -4480190682306330497
+    second: RCRSprite_63
+  - first:
+      213: -1986849362921070210
+    second: RCRSprite_64
+  - first:
+      213: 8765086417814263158
+    second: RCRSprite_65
+  - first:
+      213: -1367475773498702653
+    second: RCRSprite_66
+  - first:
+      213: 4403145038421507891
+    second: RCRSprite_67
+  - first:
+      213: 3358141432953666627
+    second: RCRSprite_68
+  - first:
+      213: 8766075433875394739
+    second: RCRSprite_69
+  - first:
+      213: 7156894977843646973
+    second: RCRSprite_70
+  - first:
+      213: 554073032067104905
+    second: RCRSprite_71
+  - first:
+      213: 6017636242419554823
+    second: RCRSprite_72
+  - first:
+      213: -58625744351856390
+    second: RCRSprite_73
+  - first:
+      213: -7361594565470297023
+    second: RCRSprite_74
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 1
+  spritePivot: {x: 0, y: 1}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 1, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RCR_Idle
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 322
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa53e803ded046a4d83bc22dcedf8428
+      internalID: -824054740171501400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCR_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 322
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e80930f4c7641e429bf894dfcda6766
+      internalID: -231558752197327494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCR_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 322
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a738aaf272b82489c747f966522e19
+      internalID: 1958998406139918090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCR_Run
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 322
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca14d87941b7c24fbb3bf06ef8addd1
+      internalID: -7985835692787539202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_4
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 322
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7483f955e5c1a459b8b017b1fc2618
+      internalID: 8342690355468997405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCR_Jump
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 322
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4d0324c9a9714488c27ba802183f18
+      internalID: 2038527864636276742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCR_Land
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 326
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd9f200468f03f43a6147e7898e05a8
+      internalID: 2054108400542405412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 282
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4f8e979f6ee634789f5f9bf1847274
+      internalID: 1565807006560123052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 282
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38cb693b004efd47b6f91f0d2560f60
+      internalID: -4465517848321313364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 282
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1837fbbdd607edc478d1552a965eb091
+      internalID: 9042972564562274975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_10
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 282
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeabb502ec53c074d97b862d6c020be6
+      internalID: -7692802549510374880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_11
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 282
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2faba9d3b5279b42b7f9b4b6d15b45f
+      internalID: -931283967015904679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_12
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 282
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059af419697b4a64590da3808e65209c
+      internalID: 2662327506260894825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_13
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 283
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff927f2ce573074696e3447d9a89c10
+      internalID: -7510842043808931786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_14
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 283
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cd80f21627f9a45bbad5290ad8c156
+      internalID: -55385228977973503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_15
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 282
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f163a2c69309210489f54958462f6ec9
+      internalID: 7156475993760669411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 243
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2af4714c5f40824dabd9b3de7294cd5
+      internalID: -2452843939083103349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 243
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbb86bb73a10614fbc6ab59123b6bca
+      internalID: 5297946225946977226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 243
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1821ee7c775486e4e948b244213e0d54
+      internalID: -1040664678489542479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_19
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 242
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0ca219e6a1fa34097aa09a8d68d2cb
+      internalID: -1013128406894008627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_20
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 243
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f308d2b3e777df4db3e5d5a49440f75
+      internalID: -7279174258416032954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 247
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456be6979c3d78d428efae66d0973735
+      internalID: -599993258213304860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 246
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9074cb5796f898b4380b57db9205b9df
+      internalID: -1148236774196818486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_23
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 247
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3494d9807e96c214b99b1f036e6d2bb2
+      internalID: 7463257905564014236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 246
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63027074ad9e0304983348b07a64ec0e
+      internalID: 5602518681610947491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 202
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cd924d963894b4dbaa5208da3129b5
+      internalID: 4257205765929308640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_26
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 202
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f08c0222ff41934594d4c944505b6e5
+      internalID: -8224052059294988012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_27
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 202
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fa695c96afde948b781ac45c9699a7
+      internalID: 5086247470827595690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_28
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 203
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0766dc1733e6b6b4b91fb5b5363e6d17
+      internalID: -7416899467372970548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_29
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 202
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2179eb76ea0169f47858bec0db015178
+      internalID: 6424205425774840505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_30
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 202
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6241cbcd32d3f434d9e511e15c2ad50f
+      internalID: -2471083659641074774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_31
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 202
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739f00bb7b247fb4e846dd9f7d7d1a25
+      internalID: 7103947193669346714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_32
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 202
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a937469ca67a94d82737e69c1d1530
+      internalID: -4312936855874484062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_33
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 202
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bd512d2583ff944877d0eef8ce7ac9
+      internalID: 3314453919296241025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_34
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 203
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf52e717fc39284b9f627aa3d5bb730
+      internalID: -3302630308432879691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_35
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 202
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139f8e0422cd0564a8f0f2a569271225
+      internalID: 2373564302026194854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 163
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248aa305e0600104bad4946d1312ace5
+      internalID: 6354291235924260763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_37
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 163
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779541e1debfc454d8128ebd55acea82
+      internalID: 6382154427687944055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_38
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 162
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fe57a9d037e074a89777dab1ebd03d
+      internalID: -3384977228516652425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_39
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 162
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f167c392b839ea4c996e7fdf2131380
+      internalID: 6204862105710272511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_40
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 163
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1596a1d7194240f439ed803d6bda8a71
+      internalID: -7164953315090986769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_41
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 163
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4e50aaafbd67b4993138679dd0c9f0
+      internalID: -5907139334142804804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_42
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 164
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c767e074a093a3b4c8ff130f6ee3f007
+      internalID: -157615671466703392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_43
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 170
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470d9aee47d3ef04d8a2fc3467265a90
+      internalID: -5491928705736656254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_44
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 170
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bd89aaa3540e041a2b80ccf2569a2a
+      internalID: 6840669504757170474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d5c50ed2463a845bf87370c221a821
+      internalID: 4208035961115780535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_46
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 122
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296eb942a43f3d54e81f738bdadbb23a
+      internalID: -4105414631332242360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_47
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 122
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa2f3bf283423647a0a8e8693ab3ae1
+      internalID: 8257718994276427156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_48
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 122
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385071a3a993ad144a911cb408cfb05c
+      internalID: 2458784753604621899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_49
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 122
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2241cf41aeee32a41afba46ce6b3b250
+      internalID: 3961249515281478083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_50
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 122
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445b26aeef107504b8af1d8200e30f44
+      internalID: 4881235326505668801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_51
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 122
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdf8a4c283407149aaaf786d4138d68
+      internalID: -6475625491583715891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_52
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 123
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f194dd3302bd7c2439460fe34a289094
+      internalID: 7928551259089997235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_53
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 83
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1482c439fb3ed1848b29b576600d50cd
+      internalID: -1676272432585233737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_54
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 83
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6608d6b31d3397241bf2f17d9709e6e0
+      internalID: -7434374404798775946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_55
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 83
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14565140fed9ded42809655d71ffad36
+      internalID: -7596879179807160603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_56
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 83
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1c05b02d811ce44b7d7a404e184ab5
+      internalID: -5767461923292107139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_57
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 83
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8452fdc536a9ed4489efe5e3adcab850
+      internalID: -4873522203739052087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_58
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 83
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf0a0ccc249d07448ffd86493736fc6
+      internalID: 8068058192056283823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_59
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 84
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf2703b94cfd284089b6342f6254ca9
+      internalID: -7275860014881259715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_60
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 84
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4fe70567cadf140bee775978002e0b
+      internalID: 3823915716472815520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_61
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 42
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12eab59dd3f0d64a860806384f2e428
+      internalID: 6087742059657183290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_62
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 43
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8098ea0e480e5c84eb5ebc63905ce71c
+      internalID: 9185498194178271521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_63
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 43
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623ab52760ac26e42aab1f0446d98425
+      internalID: -4480190682306330497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_64
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 43
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba0854294cf495419b9519606693d32
+      internalID: -1986849362921070210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_65
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 41
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a787bb9dc3b43ee4b88f2fcc1e2c508f
+      internalID: 8765086417814263158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_66
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 41
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e41bad7726df0a4a8d5725de7b10251
+      internalID: -1367475773498702653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_67
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 43
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78ac2491842a1d4eb8aa945db58e5d4
+      internalID: 4403145038421507891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_68
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da41b8cdf4197d419598fe721c24a9c
+      internalID: 3358141432953666627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_69
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19f681b57e9aff4bb247cfa5c370962
+      internalID: 8766075433875394739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_70
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31cb2326c9bd9042a152ec330ed8a94
+      internalID: 7156894977843646973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_71
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd5c3a4234fa7541af082574e443789
+      internalID: 554073032067104905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_72
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8281237db464c844a61f537ca0e4fcb
+      internalID: 6017636242419554823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_73
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb8a8ba8d036c245a091559196ef7c0
+      internalID: -58625744351856390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RCRSprite_74
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310138de0e22075458a4c85cb61e04c5
+      internalID: -7361594565470297023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1738 @@
+fileFormatVersion: 2
+guid: a410596310d2d3840bb5c0aa697f9410
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2323115887797840063
+    second: zeshinI541
+  - first:
+      213: -4001133500668032654
+    second: zeshinI542
+  - first:
+      213: -2687280502029560185
+    second: zeshinI543
+  - first:
+      213: -6214872182708592990
+    second: zeshinI544
+  - first:
+      213: -5877995820097490008
+    second: zeshinI545
+  - first:
+      213: 6822358219775957305
+    second: zeshinI546
+  - first:
+      213: -6583242858723361951
+    second: zeshinI547
+  - first:
+      213: -3546235992973328088
+    second: zeshinI548
+  - first:
+      213: -6665543147441388014
+    second: zeshinI549
+  - first:
+      213: 3266761447489728665
+    second: zeshinI550
+  - first:
+      213: 7398655447387062457
+    second: zeshinI551
+  - first:
+      213: 8798986026929878139
+    second: zeshinI552
+  - first:
+      213: 8647900990169658603
+    second: zeshinI553
+  - first:
+      213: -1380123986824867523
+    second: zeshinI554
+  - first:
+      213: 232070006964924463
+    second: zeshinI555
+  - first:
+      213: -8876407876253844462
+    second: zeshinI556
+  - first:
+      213: -3208731271121550032
+    second: zeshinI557
+  - first:
+      213: -4863036260715602315
+    second: zeshinI558
+  - first:
+      213: -6709167648415004253
+    second: zeshinI559
+  - first:
+      213: 7012125793344466184
+    second: zeshinI560
+  - first:
+      213: -130379586605415469
+    second: zeshinI561
+  - first:
+      213: 1901307285112471500
+    second: zeshinI562
+  - first:
+      213: -672364960427009912
+    second: zeshinI563
+  - first:
+      213: -1870007266640164573
+    second: zeshinI564
+  - first:
+      213: 7499792004629872214
+    second: zeshinI565
+  - first:
+      213: 1997931703882839982
+    second: zeshinI566
+  - first:
+      213: 1455656233383865590
+    second: zeshinI567
+  - first:
+      213: -2407466541235876753
+    second: zeshinI568
+  - first:
+      213: 6387657000702630694
+    second: zeshinI569
+  - first:
+      213: 4248465264753223343
+    second: zeshinI570
+  - first:
+      213: 3492055507391935112
+    second: zeshinI571
+  - first:
+      213: 7641632380730229483
+    second: zeshinI572
+  - first:
+      213: 7955530185508721564
+    second: zeshinI573
+  - first:
+      213: 4250804949919975266
+    second: zeshinI574
+  - first:
+      213: -1186984136589760168
+    second: zeshinI575
+  - first:
+      213: 3997260508902755082
+    second: zeshinI576
+  - first:
+      213: -8237848809876922852
+    second: zeshinI577
+  - first:
+      213: -6389134347929118129
+    second: zeshinI578
+  - first:
+      213: 8082731150430844384
+    second: zeshinI579
+  - first:
+      213: -8924027669401407575
+    second: zeshinI580
+  - first:
+      213: -4124674154563238101
+    second: zeshinI581
+  - first:
+      213: 4432038777065705078
+    second: zeshinI582
+  - first:
+      213: 558296681790929822
+    second: zeshinI583
+  - first:
+      213: -1266185925878289060
+    second: zeshinI584
+  - first:
+      213: -5531011529986438678
+    second: zeshinI585
+  - first:
+      213: -5230383897422302739
+    second: zeshinI586
+  - first:
+      213: 1199527773620058044
+    second: zeshinI587
+  - first:
+      213: -521617386505609342
+    second: zeshinI588
+  - first:
+      213: -4648816933249365896
+    second: zeshinI589
+  - first:
+      213: -9091050387703456922
+    second: zeshinI590
+  - first:
+      213: 7678891415208448709
+    second: zeshinI591
+  - first:
+      213: 2980764415795394166
+    second: zeshinI592
+  - first:
+      213: 2241432634921096782
+    second: zeshinI593
+  - first:
+      213: -1517855935918808337
+    second: zeshinI594
+  - first:
+      213: -6174529592821324431
+    second: zeshinI595
+  - first:
+      213: -7792233524193294489
+    second: zeshinI596
+  - first:
+      213: -1400533012809626012
+    second: zeshinI597
+  - first:
+      213: -7325831102108749863
+    second: zeshinI598
+  - first:
+      213: -7086298072649637800
+    second: zeshinI599
+  - first:
+      213: -4324618348368541665
+    second: zeshinI600
+  - first:
+      213: 8762561997009050050
+    second: zeshinI601
+  - first:
+      213: 7057730661640665418
+    second: Zesh_walk_0
+  - first:
+      213: -4878068569903983982
+    second: Zesh_walk_1
+  - first:
+      213: -98434706572020633
+    second: Zesh_walk_2
+  - first:
+      213: 7744088658684489902
+    second: Zesh_walk_3
+  - first:
+      213: 6560590480991770651
+    second: Zesh_walk_4
+  - first:
+      213: -8668411069617952865
+    second: Zesh_walk_5
+  - first:
+      213: 6811268107451261668
+    second: Zesh_walk_6
+  - first:
+      213: 4673396063686072632
+    second: Zesh_walk_7
+  - first:
+      213: 5148783663387748752
+    second: Zesh_walk_8
+  - first:
+      213: -3037476414095912540
+    second: Zesh_walk_9
+  - first:
+      213: 9033886456372324215
+    second: Zesh_walk_10
+  - first:
+      213: 1976834902351507838
+    second: Zesh_walk_11
+  - first:
+      213: 2240544990780737865
+    second: Zesh_walk_12
+  - first:
+      213: -5635181255759368005
+    second: Zesh_walk_13
+  - first:
+      213: 5701717821877205661
+    second: Zesh_walk_14
+  - first:
+      213: 8284148896756886904
+    second: Zesh_walk_15
+  - first:
+      213: -4473547212692083737
+    second: Zesh_walk_16
+  - first:
+      213: -7935633011083300107
+    second: Zesh_walk_17
+  - first:
+      213: -5644863961524520773
+    second: Zesh_walk_18
+  - first:
+      213: 8380815417106186386
+    second: Zesh_walk_19
+  - first:
+      213: -1933129549529297540
+    second: Zesh_walk_20
+  - first:
+      213: 5976661506726194543
+    second: Zesh_walk_21
+  - first:
+      213: -6785896302059568928
+    second: Zesh_walk_22
+  - first:
+      213: 4478658470368644999
+    second: Zesh_walk_23
+  - first:
+      213: -7564547150890761517
+    second: Zesh_walk_24
+  - first:
+      213: -168056973159941856
+    second: Zesh_walk_25
+  - first:
+      213: 6711748343333462523
+    second: Zesh_walk_26
+  - first:
+      213: 90683450149867095
+    second: Zesh_walk_27
+  - first:
+      213: 6385036724397061155
+    second: Zesh_walk_28
+  - first:
+      213: 2777734905466783696
+    second: Zesh_walk_29
+  - first:
+      213: 3208475586844989145
+    second: Zesh_walk_30
+  - first:
+      213: 1589098729331432464
+    second: Zesh_walk_31
+  - first:
+      213: -7783252999317288204
+    second: Zesh_walk_32
+  - first:
+      213: -7870589340808324400
+    second: Zesh_walk_33
+  - first:
+      213: -3760078638241952359
+    second: Zesh_walk_34
+  - first:
+      213: 3491526091671097826
+    second: Zesh_walk_35
+  - first:
+      213: 3655579431760226657
+    second: Zesh_walk_36
+  - first:
+      213: -1425837996527277400
+    second: Zesh_walk_37
+  - first:
+      213: -6741357921504861015
+    second: Zesh_walk_38
+  - first:
+      213: 4783107883974509931
+    second: Zesh_walk_39
+  - first:
+      213: 518064481422428424
+    second: Zesh_walk_40
+  - first:
+      213: 2200006069576235296
+    second: Zesh_walk_41
+  - first:
+      213: -2896051133456263178
+    second: Zesh_walk_42
+  - first:
+      213: 5294030544215478912
+    second: Zesh_walk_43
+  - first:
+      213: 5805467763948572349
+    second: Zesh_walk_44
+  - first:
+      213: 2700251490925734752
+    second: Zesh_walk_45
+  - first:
+      213: 7187549361890977587
+    second: Zesh_walk_46
+  - first:
+      213: 3840264425230793636
+    second: Zesh_walk_47
+  - first:
+      213: -1050285466412607333
+    second: Zesh_walk_48
+  - first:
+      213: 2155513944294203639
+    second: Zesh_walk_49
+  - first:
+      213: 1179439253516653172
+    second: Zesh_walk_50
+  - first:
+      213: 691370635581676850
+    second: Zesh_walk_51
+  - first:
+      213: -2563276965688607216
+    second: Zesh_walk_52
+  - first:
+      213: 8842184441551287558
+    second: Zesh_walk_53
+  - first:
+      213: 4580555443291521113
+    second: Zesh_walk_54
+  - first:
+      213: -3206677649194633992
+    second: Zesh_walk_55
+  - first:
+      213: 5725814569001358125
+    second: Zesh_walk_56
+  - first:
+      213: -8484966778270330470
+    second: Zesh_walk_57
+  - first:
+      213: -4486385490213973356
+    second: Zesh_walk_58
+  - first:
+      213: -3016174331981266145
+    second: Zesh_walk_59
+  - first:
+      213: 3056541320392324610
+    second: Zesh_walk_60
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zeshinI541
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1633
+        width: 202
+        height: 414
+      alignment: 9
+      pivot: {x: 0.44554454, y: 0.5169082}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI542
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1636
+        width: 208
+        height: 411
+      alignment: 9
+      pivot: {x: 0.4278846, y: 0.5109489}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI543
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1627
+        width: 208
+        height: 420
+      alignment: 9
+      pivot: {x: 0.42307693, y: 0.51428574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI544
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1625
+        width: 209
+        height: 422
+      alignment: 9
+      pivot: {x: 0.41148326, y: 0.5189573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI545
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1614
+        width: 213
+        height: 433
+      alignment: 9
+      pivot: {x: 0.3943662, y: 0.5288684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI546
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1628
+        width: 228
+        height: 419
+      alignment: 9
+      pivot: {x: 0.4473684, y: 0.50835323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI547
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1625
+        width: 217
+        height: 422
+      alignment: 9
+      pivot: {x: 0.40092167, y: 0.51421803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI548
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1641
+        width: 190
+        height: 406
+      alignment: 9
+      pivot: {x: 0.43157893, y: 0.5049261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI549
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1639
+        width: 171
+        height: 408
+      alignment: 9
+      pivot: {x: 0.4619883, y: 0.502451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI550
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 1645
+        width: 167
+        height: 402
+      alignment: 9
+      pivot: {x: 0.46706587, y: 0.50248754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI551
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1643
+        width: 169
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4260355, y: 0.5049505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI552
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 1637
+        width: 155
+        height: 410
+      alignment: 9
+      pivot: {x: 0.43225807, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI553
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 1642
+        width: 183
+        height: 405
+      alignment: 9
+      pivot: {x: 0.4262295, y: 0.49876544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI554
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 1642
+        width: 183
+        height: 405
+      alignment: 9
+      pivot: {x: 0.4043716, y: 0.51358026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI555
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 1649
+        width: 208
+        height: 398
+      alignment: 9
+      pivot: {x: 0.44230768, y: 0.5125628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI556
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 1639
+        width: 210
+        height: 408
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.51715684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI557
+      rect:
+        serializedVersion: 2
+        x: 3154
+        y: 1643
+        width: 214
+        height: 404
+      alignment: 9
+      pivot: {x: 0.45327103, y: 0.51237625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI558
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 1642
+        width: 217
+        height: 405
+      alignment: 9
+      pivot: {x: 0.3640553, y: 0.52098763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI559
+      rect:
+        serializedVersion: 2
+        x: 3589
+        y: 1633
+        width: 199
+        height: 414
+      alignment: 9
+      pivot: {x: 0.38693467, y: 0.5410628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI560
+      rect:
+        serializedVersion: 2
+        x: 3790
+        y: 1652
+        width: 186
+        height: 395
+      alignment: 9
+      pivot: {x: 0.41935483, y: 0.53417724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI561
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1214
+        width: 197
+        height: 398
+      alignment: 9
+      pivot: {x: 0.4467005, y: 0.5150754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI562
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1214
+        width: 195
+        height: 398
+      alignment: 9
+      pivot: {x: 0.4871795, y: 0.50753766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI563
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1213
+        width: 156
+        height: 399
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.50626564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI564
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1217
+        width: 150
+        height: 395
+      alignment: 9
+      pivot: {x: 0.6066667, y: 0.5164557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI565
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1218
+        width: 150
+        height: 394
+      alignment: 9
+      pivot: {x: 0.6333333, y: 0.51269037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI566
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1209
+        width: 147
+        height: 403
+      alignment: 9
+      pivot: {x: 0.6530612, y: 0.5086849}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI567
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1210
+        width: 147
+        height: 402
+      alignment: 9
+      pivot: {x: 0.67346936, y: 0.50248754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI568
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1217
+        width: 168
+        height: 395
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.521519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI569
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 1213
+        width: 156
+        height: 399
+      alignment: 9
+      pivot: {x: 0.6282051, y: 0.52380955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI570
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1210
+        width: 180
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI571
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 1217
+        width: 172
+        height: 395
+      alignment: 9
+      pivot: {x: 0.59302324, y: 0.52911395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI572
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 1209
+        width: 192
+        height: 403
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52605456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI573
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1221
+        width: 170
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5117647, y: 0.5294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI574
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 1221
+        width: 176
+        height: 391
+      alignment: 9
+      pivot: {x: 0.48863637, y: 0.5345268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI575
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 1216
+        width: 183
+        height: 396
+      alignment: 9
+      pivot: {x: 0.46994534, y: 0.510101}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI576
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 1215
+        width: 168
+        height: 397
+      alignment: 9
+      pivot: {x: 0.48809522, y: 0.5188917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI577
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 1204
+        width: 160
+        height: 408
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.5294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI578
+      rect:
+        serializedVersion: 2
+        x: 2902
+        y: 1204
+        width: 166
+        height: 408
+      alignment: 9
+      pivot: {x: 0.60240966, y: 0.53431374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI579
+      rect:
+        serializedVersion: 2
+        x: 3070
+        y: 1218
+        width: 154
+        height: 394
+      alignment: 9
+      pivot: {x: 0.5779221, y: 0.5101523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI580
+      rect:
+        serializedVersion: 2
+        x: 3226
+        y: 1223
+        width: 135
+        height: 389
+      alignment: 9
+      pivot: {x: 0.6074074, y: 0.50899744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI581
+      rect:
+        serializedVersion: 2
+        x: 3363
+        y: 1210
+        width: 131
+        height: 402
+      alignment: 9
+      pivot: {x: 0.6870229, y: 0.50248754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI582
+      rect:
+        serializedVersion: 2
+        x: 3496
+        y: 1214
+        width: 148
+        height: 398
+      alignment: 9
+      pivot: {x: 0.7027027, y: 0.50502515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI583
+      rect:
+        serializedVersion: 2
+        x: 3646
+        y: 1218
+        width: 145
+        height: 394
+      alignment: 9
+      pivot: {x: 0.6689655, y: 0.5076142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI584
+      rect:
+        serializedVersion: 2
+        x: 3793
+        y: 1226
+        width: 162
+        height: 386
+      alignment: 9
+      pivot: {x: 0.67901236, y: 0.5103627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI585
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 807
+        width: 151
+        height: 395
+      alignment: 9
+      pivot: {x: 0.6092715, y: 0.5012658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI586
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 812
+        width: 144
+        height: 390
+      alignment: 9
+      pivot: {x: 0.625, y: 0.52307695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI587
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 829
+        width: 138
+        height: 373
+      alignment: 9
+      pivot: {x: 0.5797101, y: 0.5254692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI588
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 816
+        width: 133
+        height: 386
+      alignment: 9
+      pivot: {x: 0.63909775, y: 0.53108805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI589
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 813
+        width: 122
+        height: 389
+      alignment: 9
+      pivot: {x: 0.6557377, y: 0.5115681}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI590
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 812
+        width: 129
+        height: 390
+      alignment: 9
+      pivot: {x: 0.6744186, y: 0.525641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI591
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 817
+        width: 134
+        height: 385
+      alignment: 9
+      pivot: {x: 0.6119403, y: 0.52987015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI592
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 818
+        width: 123
+        height: 384
+      alignment: 9
+      pivot: {x: 0.63414633, y: 0.5234375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI593
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 809
+        width: 135
+        height: 393
+      alignment: 9
+      pivot: {x: 0.63703704, y: 0.51399493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI594
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 814
+        width: 132
+        height: 388
+      alignment: 9
+      pivot: {x: 0.5984849, y: 0.52061856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI595
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 822
+        width: 142
+        height: 380
+      alignment: 9
+      pivot: {x: 0.64084506, y: 0.52894735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI596
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 811
+        width: 150
+        height: 391
+      alignment: 9
+      pivot: {x: 0.58666664, y: 0.5242967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI597
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 809
+        width: 147
+        height: 393
+      alignment: 9
+      pivot: {x: 0.5578231, y: 0.52926207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI598
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 828
+        width: 155
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5548387, y: 0.53208554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI599
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 820
+        width: 153
+        height: 382
+      alignment: 9
+      pivot: {x: 0.52287585, y: 0.5366492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI600
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 820
+        width: 141
+        height: 382
+      alignment: 9
+      pivot: {x: 0.5319149, y: 0.526178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeshinI601
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 822
+        width: 165
+        height: 380
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.5236842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

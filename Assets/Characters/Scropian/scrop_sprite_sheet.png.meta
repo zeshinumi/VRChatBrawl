@@ -1,0 +1,5431 @@
+fileFormatVersion: 2
+guid: 22d7c746bae2895459373aaaaa7bc0e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1460157087700384332
+    second: scrop_sprite_sheet_0
+  - first:
+      213: 1097454719115820395
+    second: scrop_sprite_sheet_1
+  - first:
+      213: -4195006025013821380
+    second: scrop_sprite_sheet_2
+  - first:
+      213: -3938303256261186425
+    second: scrop_sprite_sheet_3
+  - first:
+      213: 6612080586091776439
+    second: scrop_sprite_sheet_4
+  - first:
+      213: 3619836875724861371
+    second: scrop_sprite_sheet_5
+  - first:
+      213: 1552597567973213597
+    second: scrop_sprite_sheet_6
+  - first:
+      213: -5355846741437171035
+    second: scrop_sprite_sheet_7
+  - first:
+      213: -4410227120279541148
+    second: scrop_sprite_sheet_8
+  - first:
+      213: 6078398102708420628
+    second: scrop_sprite_sheet_9
+  - first:
+      213: 2442219256243887463
+    second: scrop_sprite_sheet_10
+  - first:
+      213: -6072965141510999482
+    second: scrop_sprite_sheet_11
+  - first:
+      213: -8128797742335715819
+    second: scrop_sprite_sheet_12
+  - first:
+      213: -539290376685909373
+    second: scrop_sprite_sheet_13
+  - first:
+      213: 7898113718064658560
+    second: scrop_sprite_sheet_14
+  - first:
+      213: 5004664650297854324
+    second: scrop_sprite_sheet_15
+  - first:
+      213: -250547967818402165
+    second: scrop_sprite_sheet_16
+  - first:
+      213: -7608238310134807756
+    second: scrop_sprite_sheet_17
+  - first:
+      213: -154417951402318861
+    second: scrop_sprite_sheet_18
+  - first:
+      213: -2300273513500024613
+    second: scrop_sprite_sheet_19
+  - first:
+      213: 4081772437580996721
+    second: scrop_sprite_sheet_20
+  - first:
+      213: -8272947303340785919
+    second: scrop_sprite_sheet_21
+  - first:
+      213: -8625544705453856119
+    second: scrop_sprite_sheet_22
+  - first:
+      213: -5765535852449933855
+    second: scrop_sprite_sheet_23
+  - first:
+      213: 3860352720036480633
+    second: scrop_sprite_sheet_24
+  - first:
+      213: 2784400343075611290
+    second: scrop_sprite_sheet_25
+  - first:
+      213: -274233267839569101
+    second: scrop_sprite_sheet_26
+  - first:
+      213: -267697368051146110
+    second: scrop_sprite_sheet_27
+  - first:
+      213: 521027373043032397
+    second: scrop_sprite_sheet_28
+  - first:
+      213: -1364500001285741355
+    second: scrop_sprite_sheet_29
+  - first:
+      213: -3280566248698166818
+    second: scrop_sprite_sheet_30
+  - first:
+      213: -1540814230990561749
+    second: scrop_sprite_sheet_31
+  - first:
+      213: 7499303452004532456
+    second: scrop_sprite_sheet_32
+  - first:
+      213: 4937920524980816762
+    second: scrop_sprite_sheet_33
+  - first:
+      213: -4640751299439693733
+    second: scrop_sprite_sheet_34
+  - first:
+      213: 5640386803342226291
+    second: scrop_sprite_sheet_35
+  - first:
+      213: 345110907300751525
+    second: scrop_sprite_sheet_36
+  - first:
+      213: 7237694453028050603
+    second: scrop_sprite_sheet_37
+  - first:
+      213: -6844417241055247194
+    second: scrop_sprite_sheet_38
+  - first:
+      213: 2827112887237190993
+    second: scrop_sprite_sheet_39
+  - first:
+      213: 2738882844422355201
+    second: scrop_sprite_sheet_40
+  - first:
+      213: -4286986773198021941
+    second: scrop_sprite_sheet_41
+  - first:
+      213: -3543664750609527813
+    second: scrop_sprite_sheet_42
+  - first:
+      213: -6538170355172110886
+    second: scrop_sprite_sheet_43
+  - first:
+      213: 2067131715855375830
+    second: scrop_sprite_sheet_44
+  - first:
+      213: -2718230956037369714
+    second: scrop_sprite_sheet_45
+  - first:
+      213: 2598941130611229185
+    second: scrop_sprite_sheet_46
+  - first:
+      213: -6025453190374519563
+    second: scrop_sprite_sheet_47
+  - first:
+      213: -5801721796535682267
+    second: scrop_sprite_sheet_48
+  - first:
+      213: 4684350784944979524
+    second: scrop_sprite_sheet_49
+  - first:
+      213: 5212340455058991617
+    second: scrop_sprite_sheet_50
+  - first:
+      213: -5175732773422261054
+    second: scrop_sprite_sheet_51
+  - first:
+      213: 909371430445010834
+    second: scrop_sprite_sheet_52
+  - first:
+      213: -6886951772914479211
+    second: scrop_sprite_sheet_53
+  - first:
+      213: 6440522412178935288
+    second: scrop_sprite_sheet_54
+  - first:
+      213: -1991045796641029923
+    second: scrop_sprite_sheet_55
+  - first:
+      213: 4757286501596678976
+    second: scrop_sprite_sheet_56
+  - first:
+      213: 2397385157777945384
+    second: scrop_sprite_sheet_57
+  - first:
+      213: 8849396624535321935
+    second: scrop_sprite_sheet_58
+  - first:
+      213: -2231654787916859173
+    second: scrop_sprite_sheet_59
+  - first:
+      213: 7621940242509530389
+    second: scrop_sprite_sheet_60
+  - first:
+      213: 3997861132526836171
+    second: scrop_sprite_sheet_61
+  - first:
+      213: 1111495640476954757
+    second: scrop_sprite_sheet_62
+  - first:
+      213: -2118528840295560305
+    second: scrop_sprite_sheet_63
+  - first:
+      213: 4788194836577567181
+    second: scrop_sprite_sheet_64
+  - first:
+      213: 3605984383236770520
+    second: scrop_sprite_sheet_65
+  - first:
+      213: 1197961373360068220
+    second: scrop_sprite_sheet_66
+  - first:
+      213: -2781687240621942754
+    second: scrop_sprite_sheet_67
+  - first:
+      213: 1447104361131431375
+    second: scrop_sprite_sheet_68
+  - first:
+      213: 8633742735040104310
+    second: scrop_sprite_sheet_69
+  - first:
+      213: -761788150839012811
+    second: scrop_sprite_sheet_70
+  - first:
+      213: 6595084511463909882
+    second: scrop_sprite_sheet_71
+  - first:
+      213: 3737517334588284296
+    second: scrop_sprite_sheet_72
+  - first:
+      213: -3801598815071951072
+    second: scrop_sprite_sheet_73
+  - first:
+      213: 1712353408868606760
+    second: scrop_sprite_sheet_74
+  - first:
+      213: 359586852004518619
+    second: scrop_sprite_sheet_75
+  - first:
+      213: 8152461540245420270
+    second: scrop_sprite_sheet_76
+  - first:
+      213: 2469759567933004063
+    second: scrop_sprite_sheet_77
+  - first:
+      213: -8735193578591597551
+    second: scrop_sprite_sheet_78
+  - first:
+      213: -6750297512511506072
+    second: scrop_sprite_sheet_79
+  - first:
+      213: 3706789615027652705
+    second: scrop_sprite_sheet_80
+  - first:
+      213: -3131198517356957393
+    second: scrop_sprite_sheet_81
+  - first:
+      213: -129282764977807616
+    second: scrop_sprite_sheet_82
+  - first:
+      213: -1791558920184440447
+    second: scrop_sprite_sheet_83
+  - first:
+      213: 516254800924258427
+    second: scrop_sprite_sheet_84
+  - first:
+      213: -65777190619859376
+    second: scrop_sprite_sheet_85
+  - first:
+      213: 5168384365424433455
+    second: scrop_sprite_sheet_86
+  - first:
+      213: -4778093550406782525
+    second: scrop_sprite_sheet_87
+  - first:
+      213: -1219562651256542589
+    second: scrop_sprite_sheet_88
+  - first:
+      213: 3915558767401175350
+    second: scrop_sprite_sheet_89
+  - first:
+      213: -1713978909685739137
+    second: scrop_sprite_sheet_90
+  - first:
+      213: -3607805776787181051
+    second: scrop_sprite_sheet_91
+  - first:
+      213: 1323045621051931765
+    second: scrop_sprite_sheet_92
+  - first:
+      213: 1220962174963608100
+    second: scrop_sprite_sheet_93
+  - first:
+      213: -5376613627866697839
+    second: scrop_sprite_sheet_94
+  - first:
+      213: 4166838799073984548
+    second: scrop_sprite_sheet_95
+  - first:
+      213: 7200101438928923360
+    second: scrop_sprite_sheet_96
+  - first:
+      213: 3614348959316613338
+    second: scrop_sprite_sheet_97
+  - first:
+      213: -1907180613194308610
+    second: scrop_sprite_sheet_98
+  - first:
+      213: -8402059143732963940
+    second: scrop_sprite_sheet_99
+  - first:
+      213: 5682993455406301778
+    second: scrop_sprite_sheet_100
+  - first:
+      213: -6242480316331663250
+    second: scrop_sprite_sheet_101
+  - first:
+      213: -1911568494954095860
+    second: scrop_sprite_sheet_102
+  - first:
+      213: 4625507524941925148
+    second: scrop_sprite_sheet_103
+  - first:
+      213: 5958970237882245148
+    second: scrop_sprite_sheet_104
+  - first:
+      213: 1498380923777833520
+    second: scrop_sprite_sheet_105
+  - first:
+      213: 6446670414342515586
+    second: scrop_sprite_sheet_106
+  - first:
+      213: 5799248609089900397
+    second: scrop_sprite_sheet_107
+  - first:
+      213: -7842679337025451319
+    second: scrop_sprite_sheet_108
+  - first:
+      213: -5003479582840628364
+    second: scrop_sprite_sheet_109
+  - first:
+      213: -4890284338299465379
+    second: scrop_sprite_sheet_110
+  - first:
+      213: 2888930745954787655
+    second: scrop_sprite_sheet_111
+  - first:
+      213: 4903217957747520630
+    second: scrop_sprite_sheet_112
+  - first:
+      213: 1741032333568608715
+    second: scrop_sprite_sheet_113
+  - first:
+      213: -6159256368656951651
+    second: scrop_sprite_sheet_114
+  - first:
+      213: -2750839221754427150
+    second: scrop_sprite_sheet_115
+  - first:
+      213: -8042189453264323997
+    second: scrop_sprite_sheet_116
+  - first:
+      213: 8659525477459821486
+    second: scrop_sprite_sheet_117
+  - first:
+      213: -9158392969097198355
+    second: scrop_sprite_sheet_118
+  - first:
+      213: 3861293865078000071
+    second: scrop_sprite_sheet_119
+  - first:
+      213: 7500116432419727005
+    second: scrop_sprite_sheet_120
+  - first:
+      213: -507603909558827065
+    second: scrop_sprite_sheet_121
+  - first:
+      213: 5812921720833910117
+    second: scrop_sprite_sheet_122
+  - first:
+      213: 252142105117791828
+    second: scrop_sprite_sheet_123
+  - first:
+      213: 1258365286878430955
+    second: scrop_sprite_sheet_124
+  - first:
+      213: -2331136966587303881
+    second: scrop_sprite_sheet_125
+  - first:
+      213: 4385450670396850893
+    second: scrop_sprite_sheet_126
+  - first:
+      213: 5045048484191829616
+    second: scrop_sprite_sheet_127
+  - first:
+      213: -6038377435349537675
+    second: scrop_sprite_sheet_128
+  - first:
+      213: -768103156988924744
+    second: scrop_sprite_sheet_129
+  - first:
+      213: -4745475588711464782
+    second: scrop_sprite_sheet_130
+  - first:
+      213: -5537839547040642365
+    second: scrop_sprite_sheet_131
+  - first:
+      213: 5504587230324733035
+    second: scrop_sprite_sheet_132
+  - first:
+      213: 4039479787313737258
+    second: scrop_sprite_sheet_133
+  - first:
+      213: 4120359703877244905
+    second: scrop_sprite_sheet_134
+  - first:
+      213: -8946197252934400085
+    second: scrop_sprite_sheet_135
+  - first:
+      213: -4771591885652717808
+    second: scrop_sprite_sheet_136
+  - first:
+      213: -3440582773884571026
+    second: scrop_sprite_sheet_137
+  - first:
+      213: 5346992276933549298
+    second: scrop_sprite_sheet_138
+  - first:
+      213: 2424628119381850390
+    second: scrop_sprite_sheet_139
+  - first:
+      213: -2349779652574135812
+    second: scrop_sprite_sheet_140
+  - first:
+      213: -1234779072657458394
+    second: scrop_sprite_sheet_141
+  - first:
+      213: -5529533765265603280
+    second: scrop_sprite_sheet_142
+  - first:
+      213: 4529394036000989062
+    second: scrop_sprite_sheet_143
+  - first:
+      213: 6512637084348445036
+    second: scrop_sprite_sheet_144
+  - first:
+      213: -2536825774628035583
+    second: scrop_sprite_sheet_145
+  - first:
+      213: -2202607141493913200
+    second: scrop_sprite_sheet_146
+  - first:
+      213: -6102484917289142997
+    second: scrop_sprite_sheet_147
+  - first:
+      213: -147756532122466197
+    second: scrop_sprite_sheet_148
+  - first:
+      213: 6845367574239090487
+    second: scrop_sprite_sheet_149
+  - first:
+      213: 8371841955525069213
+    second: scrop_sprite_sheet_150
+  - first:
+      213: 8434401229480684362
+    second: scrop_sprite_sheet_151
+  - first:
+      213: -7031768649585250127
+    second: scrop_sprite_sheet_152
+  - first:
+      213: -4045953192647733089
+    second: scrop_sprite_sheet_153
+  - first:
+      213: -411895501653231305
+    second: scrop_sprite_sheet_154
+  - first:
+      213: 8302193038536615583
+    second: scrop_sprite_sheet_155
+  - first:
+      213: -7218237343138800287
+    second: scrop_sprite_sheet_156
+  - first:
+      213: 9128506207299561656
+    second: scrop_sprite_sheet_157
+  - first:
+      213: 3446326192246656707
+    second: scrop_sprite_sheet_158
+  - first:
+      213: -2432304963418491417
+    second: scrop_sprite_sheet_159
+  - first:
+      213: 7597776205929051904
+    second: scrop_sprite_sheet_160
+  - first:
+      213: 7805119130045028938
+    second: scrop_sprite_sheet_161
+  - first:
+      213: -991881617349799137
+    second: scrop_sprite_sheet_162
+  - first:
+      213: 7515686070514447098
+    second: scrop_sprite_sheet_163
+  - first:
+      213: 5692439315720574570
+    second: scrop_sprite_sheet_164
+  - first:
+      213: 4725683796663996159
+    second: scrop_sprite_sheet_165
+  - first:
+      213: -8341626649356027282
+    second: scrop_sprite_sheet_166
+  - first:
+      213: -3572213710677463510
+    second: scrop_sprite_sheet_167
+  - first:
+      213: -5718589024817579824
+    second: scrop_sprite_sheet_168
+  - first:
+      213: 6917828159545548215
+    second: scrop_sprite_sheet_169
+  - first:
+      213: -4230170954171297760
+    second: scrop_sprite_sheet_170
+  - first:
+      213: -7579634037848272806
+    second: scrop_sprite_sheet_171
+  - first:
+      213: -7138965006043080801
+    second: scrop_sprite_sheet_172
+  - first:
+      213: -5951863631828772892
+    second: scrop_sprite_sheet_173
+  - first:
+      213: 8810241992634488824
+    second: scrop_sprite_sheet_174
+  - first:
+      213: 1547741362154786883
+    second: scrop_sprite_sheet_175
+  - first:
+      213: -1342844702222588216
+    second: scrop_sprite_sheet_176
+  - first:
+      213: 5480343156101409750
+    second: scrop_sprite_sheet_177
+  - first:
+      213: 2604057644913246124
+    second: scrop_sprite_sheet_178
+  - first:
+      213: 1475985164973279185
+    second: scrop_sprite_sheet_179
+  - first:
+      213: -6222837847053281168
+    second: scrop_sprite_sheet_180
+  - first:
+      213: 3555867768856031466
+    second: scrop_sprite_sheet_181
+  - first:
+      213: 4980440441013857199
+    second: scrop_sprite_sheet_182
+  - first:
+      213: -601189083985817514
+    second: scrop_sprite_sheet_183
+  - first:
+      213: -2161015393669769850
+    second: scrop_sprite_sheet_184
+  - first:
+      213: 1429188315827626927
+    second: scrop_sprite_sheet_185
+  - first:
+      213: 9201152946328682351
+    second: scrop_sprite_sheet_186
+  - first:
+      213: 6980749165975969074
+    second: scrop_sprite_sheet_187
+  - first:
+      213: 1011521226018212194
+    second: scrop_sprite_sheet_188
+  - first:
+      213: 6263340271270935386
+    second: scrop_sprite_sheet_189
+  - first:
+      213: 7057555958075036626
+    second: scrop_sprite_sheet_190
+  - first:
+      213: -6366904400374338328
+    second: scrop_sprite_sheet_191
+  - first:
+      213: -6079491170752926023
+    second: scrop_sprite_sheet_192
+  - first:
+      213: -396189007729502144
+    second: scrop_sprite_sheet_193
+  - first:
+      213: -5219237397643959123
+    second: scrop_sprite_sheet_194
+  - first:
+      213: 367900332048291359
+    second: scrop_sprite_sheet_195
+  - first:
+      213: 1095062729719986239
+    second: scrop_sprite_sheet_196
+  - first:
+      213: 3349364639828443763
+    second: scrop_sprite_sheet_197
+  - first:
+      213: 2827583827236959911
+    second: scrop_sprite_sheet_198
+  - first:
+      213: 5859238079516578851
+    second: scrop_sprite_sheet_199
+  - first:
+      213: -7999375602406221050
+    second: scrop_sprite_sheet_200
+  - first:
+      213: 8836780422460080008
+    second: scrop_sprite_sheet_201
+  - first:
+      213: -1818099191656066669
+    second: scrop_sprite_sheet_202
+  - first:
+      213: -1180408784746973927
+    second: scrop_sprite_sheet_203
+  - first:
+      213: 6986964701608881883
+    second: scrop_sprite_sheet_204
+  - first:
+      213: -8861864950428196717
+    second: scrop_sprite_sheet_205
+  - first:
+      213: 1563247584664072236
+    second: scrop_sprite_sheet_206
+  - first:
+      213: -345780010269238628
+    second: scrop_sprite_sheet_207
+  - first:
+      213: 2488275685906049336
+    second: scrop_sprite_sheet_208
+  - first:
+      213: 1818703628898180017
+    second: scrop_sprite_sheet_209
+  - first:
+      213: -123794556879360912
+    second: scrop_sprite_sheet_210
+  - first:
+      213: -135370265683569946
+    second: scrop_sprite_sheet_211
+  - first:
+      213: -2179810438486178289
+    second: scrop_sprite_sheet_212
+  - first:
+      213: -2065519929798047857
+    second: scrop_sprite_sheet_213
+  - first:
+      213: 1731437235691193022
+    second: scrop_sprite_sheet_214
+  - first:
+      213: -1923453061123388668
+    second: scrop_sprite_sheet_215
+  - first:
+      213: 503687747943721293
+    second: scrop_sprite_sheet_216
+  - first:
+      213: -3074750585632584336
+    second: scrop_sprite_sheet_217
+  - first:
+      213: 8884571541423692851
+    second: scrop_sprite_sheet_218
+  - first:
+      213: -7998748331383493692
+    second: scrop_sprite_sheet_219
+  - first:
+      213: 895635267498586094
+    second: scrop_sprite_sheet_220
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1457
+        width: 48
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2169ee1452fe42a4584d87233fc79da6
+      internalID: -1460157087700384332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1457
+        width: 48
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bafc41df79e4374891faa1a598b9709
+      internalID: 1097454719115820395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1457
+        width: 47
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa8845fddd984544aacbbc73f1ec416
+      internalID: -4195006025013821380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1457
+        width: 47
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecaa631d7156d8b46a2d65c501d7fec6
+      internalID: -3938303256261186425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1457
+        width: 47
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a9eaa4c99f5704893d36d191a3157a
+      internalID: 6612080586091776439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1457
+        width: 47
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4eb6071774fc8f4488f7d7ef25f2792
+      internalID: 3619836875724861371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1457
+        width: 48
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a38bf4177610ac409986f81cb2bc7d3
+      internalID: 1552597567973213597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1457
+        width: 49
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7458fa8142aa142a3e9d67cc47f278
+      internalID: -5355846741437171035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1457
+        width: 44
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9057f35575972498f47cff703aaab7
+      internalID: -4410227120279541148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1457
+        width: 43
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e55fc95cbf84f439731d0f657ef0e1
+      internalID: 6078398102708420628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1457
+        width: 44
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c1f26241f8b474f843bcbf1d6eecc7
+      internalID: 2442219256243887463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1457
+        width: 47
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7a20b9822b846499c8c54ca2a95c19
+      internalID: -6072965141510999482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1457
+        width: 46
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da411e9d913f4445a63d8fbc44fbbe4
+      internalID: -8128797742335715819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1457
+        width: 39
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465e46c45c044ce40bc028fc6027da07
+      internalID: -539290376685909373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1457
+        width: 39
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba905369cf652a4b96390eecd69862c
+      internalID: 7898113718064658560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1457
+        width: 45
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2eeea22c3d437d489a4d05c2c19e990
+      internalID: 5004664650297854324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1457
+        width: 45
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6731d53a5b49ea44d8af918f6439749a
+      internalID: -250547967818402165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1457
+        width: 44
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a227f7555f102743909c384158441a3
+      internalID: -7608238310134807756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1457
+        width: 41
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a59c99ae3af4c48afff78be5ebb8c7
+      internalID: -154417951402318861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1328
+        width: 48
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e10cb0fd3838114aafb205d4fab1ae0
+      internalID: -2300273513500024613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1328
+        width: 47
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a72c68eb6633d44b574a59363bb68e
+      internalID: 4081772437580996721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1328
+        width: 47
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5461182d103b61e4b8545d7f83ab14e5
+      internalID: -8272947303340785919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1328
+        width: 47
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cc3a3d5cc6a23429d72bcdf28b1f31
+      internalID: -8625544705453856119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1328
+        width: 46
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6394fa36a864d194295d9cdef309a2db
+      internalID: -5765535852449933855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1328
+        width: 47
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3451a959d509729428f3b6237b27f8f6
+      internalID: 3860352720036480633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1328
+        width: 47
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d4ffbbe4e5d7b4b8e7524c52eb0183
+      internalID: 2784400343075611290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1328
+        width: 55
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d26aa9bb3670d4085db0b96547ea11
+      internalID: -274233267839569101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1328
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e89e23cd606f1e4ca577f255eeb13c7
+      internalID: -267697368051146110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1328
+        width: 43
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7af46096ac7bcb409e0f10a48019324
+      internalID: 521027373043032397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1328
+        width: 45
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f8b6a40ac9bf348a737725403397a4
+      internalID: -1364500001285741355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1328
+        width: 41
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84807ee8a8a7c243bb1176a7dac1cb5
+      internalID: -3280566248698166818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1328
+        width: 40
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67890586f468632488dbabb6721a5bc7
+      internalID: -1540814230990561749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1328
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87c038eaaea11a4eadb9a8e27bd20f6
+      internalID: 7499303452004532456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1328
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6172f38280f744d9ec6ad91819f756
+      internalID: 4937920524980816762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1328
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46000e4108fff584d8195640c2f7e52a
+      internalID: -4640751299439693733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1328
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf159ce79cfe2c4ebb2865b1c8d6f74
+      internalID: 5640386803342226291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1328
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2281c684465aa5043b8bd520a47e6a5d
+      internalID: 345110907300751525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1328
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fd7567b0f658446a491708b10cfaad
+      internalID: 7237694453028050603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1328
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745b48ae3091d544faf468a77543ad55
+      internalID: -6844417241055247194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 1328
+        width: 44
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859b7427347b54e41aebdeb166e406d4
+      internalID: 2827112887237190993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1328
+        width: 41
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13b6694cdf16cb429abc70230f3051c
+      internalID: 2738882844422355201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1328
+        width: 41
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09cadf95cfaf394f8a4d253ca7493a6
+      internalID: -4286986773198021941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1328
+        width: 43
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6730166237052b74582e5e6a353041ff
+      internalID: -3543664750609527813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1212
+        width: 47
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca607342a26efb48a55a1cee17f7868
+      internalID: -6538170355172110886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1212
+        width: 55
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e973c9fd622820f4ca4e336db4707d03
+      internalID: 2067131715855375830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1212
+        width: 71
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d6c6a3a39a70f48a1666bed3f74048
+      internalID: -2718230956037369714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1212
+        width: 42
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1f1eeacbd6ed34b995ac1bd6784782
+      internalID: 2598941130611229185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1212
+        width: 53
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a2ccf131d84dd4b9414d1cb7b29fdd
+      internalID: -6025453190374519563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1212
+        width: 71
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8489eeb47cbf7a543b56e1600385acfa
+      internalID: -5801721796535682267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1212
+        width: 48
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dedb0614f450f41967237bd3518b58
+      internalID: 4684350784944979524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1212
+        width: 55
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a361a384780ca0845a6ff41b61b2c322
+      internalID: 5212340455058991617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1098
+        width: 47
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c930a38e2e56099479bc1144bee70667
+      internalID: -5175732773422261054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1098
+        width: 70
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701dc1df57bd90543a4e8c1849ed86dc
+      internalID: 909371430445010834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1098
+        width: 42
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e99c3327c072344696889c1f43443e8
+      internalID: -6886951772914479211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1098
+        width: 53
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bf643e0c01c4b48973cb444b9d251b
+      internalID: 6440522412178935288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1098
+        width: 70
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a83db0dc1ae38b45b754b80777e8377
+      internalID: -1991045796641029923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1098
+        width: 54
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a025fb7eca9d5a84cb0d80eaa2a44c7f
+      internalID: 4757286501596678976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1098
+        width: 73
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a44c0b5c5401014b841f23fd98885f3
+      internalID: 2397385157777945384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1098
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6fd206b2bafb84388ac37da9574d8b
+      internalID: 8849396624535321935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1098
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99bf1c41e414624daa98402a7caeb51
+      internalID: -2231654787916859173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1098
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29698b867cfbc64796daaf328350d76
+      internalID: 7621940242509530389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1098
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf6a7e4a494988428445e8e555741b3
+      internalID: 3997861132526836171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1098
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46adbbb2c55343f4babf00df0e103f4c
+      internalID: 1111495640476954757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 983
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77b8c287bedac6428337e3e815783b2
+      internalID: -2118528840295560305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 983
+        width: 47
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef8a255e11723c4d9f9dd606792947a
+      internalID: 4788194836577567181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 983
+        width: 35
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f67441dc2a9064b9087726ac9ca069
+      internalID: 3605984383236770520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 983
+        width: 54
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6442b97402d3dc54bbe04a5c3f09baa8
+      internalID: 1197961373360068220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 983
+        width: 77
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ba6cf730103b94a8356a400fb1165b
+      internalID: -2781687240621942754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 983
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704e41d261ae2114ca9443e6f402a5d1
+      internalID: 1447104361131431375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 983
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeee8a34cf4c7ea4f97e841adf665db8
+      internalID: 8633742735040104310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 983
+        width: 47
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e667532b74fa240b6e6f69cbc25cf0
+      internalID: -761788150839012811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 983
+        width: 35
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa49e7fbd81126b40867cd017f131b50
+      internalID: 6595084511463909882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 983
+        width: 54
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c91a83d095c7a4f9c17ddd88b943e3
+      internalID: 3737517334588284296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 983
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b49d523148cc34c804ccc648dffe7b
+      internalID: -3801598815071951072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 983
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3ad6bcb3ab5f643a056033df22b50d
+      internalID: 1712353408868606760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 983
+        width: 48
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b17bde6987bd824198f6d40147de250
+      internalID: 359586852004518619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 983
+        width: 52
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea55b217014506b48b3cede0a1e4778b
+      internalID: 8152461540245420270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 868
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2e1112b898c4544a38373df97d570f
+      internalID: 2469759567933004063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 868
+        width: 51
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06917d09d78d531488ae59fc6a86d46d
+      internalID: -8735193578591597551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 868
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7b710e197ed774a8d94d047c611632
+      internalID: -6750297512511506072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 868
+        width: 50
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36864c720d410d94793995dcccf1d4f5
+      internalID: 3706789615027652705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 868
+        width: 43
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1760e97453f88439a9dce5fd6347ec
+      internalID: -3131198517356957393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 868
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ec3d5446a83e743baaaac25377dfde
+      internalID: -129282764977807616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 868
+        width: 47
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f05ffe17ef2005419a6b58d0cd9e4b3
+      internalID: -1791558920184440447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 868
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caabad28ea76c3449a89e6fe11afb985
+      internalID: 516254800924258427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 868
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e1faf3619238b4390714742cdbb8a7
+      internalID: -65777190619859376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 868
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98723163258eb6f42b982013cd7cd7b2
+      internalID: 5168384365424433455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 868
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5583db28d20ca844a87e4ccc3c4aa6b
+      internalID: -4778093550406782525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 868
+        width: 76
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393978843507df74ea9dd6c3ce990f84
+      internalID: -1219562651256542589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 868
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235c3056982dc2d4fb9adea0b10ed391
+      internalID: 3915558767401175350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 868
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422f75da423fb434cab082b8bb279d45
+      internalID: -1713978909685739137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 868
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b51c46538ba4440ad289d3ef4582c2
+      internalID: -3607805776787181051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 868
+        width: 45
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5038f637f27be4408028a75fd75391d
+      internalID: 1323045621051931765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 734
+        width: 46
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee718baa8b3b2c04bad74f3ff0d3d9a2
+      internalID: 1220962174963608100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 734
+        width: 50
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123ac8eacfbc6c74bae98ff4eb6dc30a
+      internalID: -5376613627866697839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 734
+        width: 69
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038b9821b1d82bb4295e2d672a90d5cb
+      internalID: 4166838799073984548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 734
+        width: 42
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e77ba665d504544daf462839ae94d18
+      internalID: 7200101438928923360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 734
+        width: 39
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301a0adab0639dd4183c55997693a539
+      internalID: 3614348959316613338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 734
+        width: 53
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e715f9284a28484b8e04784d388766d
+      internalID: -1907180613194308610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 734
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d99b62c6c0cee743a9a84424f78b7f1
+      internalID: -8402059143732963940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 734
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc60c117ac3bbf4abcdfeb44512f480
+      internalID: 5682993455406301778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 734
+        width: 38
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717e0098020d1584fb578e53335b35f0
+      internalID: -6242480316331663250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_102
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 734
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e80c13edc7843a46a90a8d9f49565a4
+      internalID: -1911568494954095860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_103
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 734
+        width: 90
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4888f5841034d14193c551b7bf9df4f
+      internalID: 4625507524941925148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_104
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 734
+        width: 56
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd719dc4b0ccac479cf49a1ff380258
+      internalID: 5958970237882245148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_105
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 734
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7325721925b42834f848ab5f61b2213c
+      internalID: 1498380923777833520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_106
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 734
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe7762686411f2488e063f0e04b4cba
+      internalID: 6446670414342515586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_107
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 734
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fcf033d8cf8e84b97566e5548237a5
+      internalID: 5799248609089900397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_108
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 615
+        width: 46
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8a9599a277d92478d0681a4da3ea82
+      internalID: -7842679337025451319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_109
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 615
+        width: 49
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b68f7f60db83b49a7703e796e8b40b
+      internalID: -5003479582840628364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_110
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 615
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c63a4f2a4d460a4eb41353470c039ba
+      internalID: -4890284338299465379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_111
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 615
+        width: 44
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0452c16caa810194dba93916bf0e569a
+      internalID: 2888930745954787655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_112
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 615
+        width: 47
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eab37f177df0de42a045eaae8c24c56
+      internalID: 4903217957747520630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_113
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 615
+        width: 54
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00c5e37357cb6948be9abde4f0c3a1f
+      internalID: 1741032333568608715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_114
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 615
+        width: 56
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1bb298dfd799348b60d0e552c4b835
+      internalID: -6159256368656951651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_115
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 615
+        width: 47
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5cb301d13339e4e9c748bc99e075c5
+      internalID: -2750839221754427150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_116
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 615
+        width: 35
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3448f739c013aaa40919aeed8b76601b
+      internalID: -8042189453264323997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_117
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 615
+        width: 29
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd4738921332af48878cc89e5855725
+      internalID: 8659525477459821486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_118
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 615
+        width: 38
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02b2e3b381ed9f41b646c1efa5bdf8f
+      internalID: -9158392969097198355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_119
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 615
+        width: 40
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb6694f28013344fb2799fc46f7a38c
+      internalID: 3861293865078000071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_120
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 615
+        width: 48
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75afc372eeb69344b4da40e7348fa38
+      internalID: 7500116432419727005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_121
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 615
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bc5f00f2c89034facb17e2a7990b89
+      internalID: -507603909558827065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_122
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 615
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd676e0b1d425c74eb565b0c572189f8
+      internalID: 5812921720833910117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_123
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 615
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c388eacc0250b94da265bacd25372de
+      internalID: 252142105117791828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_124
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 615
+        width: 37
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0605fbdd429396e488b6a33fb13786ba
+      internalID: 1258365286878430955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_125
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 615
+        width: 42
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d571405f7958ab24398bd5ed1861b184
+      internalID: -2331136966587303881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_126
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 615
+        width: 41
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053c125e2783a4a47b967d08936390ac
+      internalID: 4385450670396850893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_127
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 615
+        width: 39
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290f44a8d69e59b42bb683e2ff6c16ce
+      internalID: 5045048484191829616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_128
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 615
+        width: 38
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d8c705a184f8f41ba09e4c15e4e59b
+      internalID: -6038377435349537675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_129
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 615
+        width: 43
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04ef2dcfb7352c4ca35a2880a638d3e
+      internalID: -768103156988924744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_130
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 615
+        width: 43
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c4b8066a60c474c8b5dd0d6c5b7538
+      internalID: -4745475588711464782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_131
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 615
+        width: 47
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648ab515ad7ec6f45ab9ec0c930dc15b
+      internalID: -5537839547040642365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_132
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 615
+        width: 36
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a962592349b3041be03afb33a5713a
+      internalID: 5504587230324733035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_133
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 615
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc06edf63e40f849b45e9507d732664
+      internalID: 4039479787313737258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_134
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 615
+        width: 50
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0dff57a6c9dfb4c82f87f7107a0d30
+      internalID: 4120359703877244905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_135
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 615
+        width: 52
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b7810ab2d411f4998f283bf254b306
+      internalID: -8946197252934400085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_136
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 615
+        width: 42
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ec5d3acce326748a6362670f11fc65
+      internalID: -4771591885652717808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_137
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 507
+        width: 69
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5c0c5c6a935184880cefeba0aaf151
+      internalID: -3440582773884571026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_138
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 507
+        width: 71
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41756162ca3bf3b459e43241a5523abf
+      internalID: 5346992276933549298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_139
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 507
+        width: 51
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596856ac0072c2f44b339867a9f72976
+      internalID: 2424628119381850390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_140
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 507
+        width: 42
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6958c3006534f4398521b73213d4d9
+      internalID: -2349779652574135812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_141
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 507
+        width: 67
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a805108a2980d744bab9261d771c9fa
+      internalID: -1234779072657458394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_142
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 507
+        width: 89
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77737b20737171448e4ea435ff8dee4
+      internalID: -5529533765265603280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_143
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 507
+        width: 61
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e96cfe8c930e3e4b89f31f2393e9591
+      internalID: 4529394036000989062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_144
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 507
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f7d83cd980956419d9569ed2ff10ac
+      internalID: 6512637084348445036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_145
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 507
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea71b3ee8313e8342b064942a532d3e8
+      internalID: -2536825774628035583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_146
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 507
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a576396fed5b53f4493b3743f05ba81b
+      internalID: -2202607141493913200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_147
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 507
+        width: 66
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e6852fdf4f9934881d94782f5f340a
+      internalID: -6102484917289142997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_148
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 507
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52abd9569b2809c4eaea20281a0c08c9
+      internalID: -147756532122466197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_149
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 412
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f72159e82c8554d9693eea35a84ff2
+      internalID: 6845367574239090487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_150
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 412
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bb74e5d4ee28f47b955ebae2075746
+      internalID: 8371841955525069213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_151
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 412
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d931cde14602cb04f92564d7de5b78ac
+      internalID: 8434401229480684362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_152
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 412
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733a513700f1ec84ca3ef2e7a2f07c3d
+      internalID: -7031768649585250127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_153
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 412
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4faa9887b5b987e4f86f4c3ddf31865b
+      internalID: -4045953192647733089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_154
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 412
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689a3e925995edc40a9404954dfc4af3
+      internalID: -411895501653231305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_155
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 412
+        width: 89
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3fe4d26f105a045a2c5ab9f79208c4
+      internalID: 8302193038536615583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_156
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 412
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778341266e5ec5c4db8b96387852ea5b
+      internalID: -7218237343138800287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_157
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 412
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1ce4946b817f24c80bca3a41b4396f
+      internalID: 9128506207299561656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_158
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 412
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9270132f0f01ee44beee94052829e4c
+      internalID: 3446326192246656707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_159
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 412
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b647254642e7224439788adda989d476
+      internalID: -2432304963418491417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_160
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 412
+        width: 53
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513983be8dccb994198eb6969a5ee60a
+      internalID: 7597776205929051904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_161
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 299
+        width: 62
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dcd605f242dc64aac6e82374098355
+      internalID: 7805119130045028938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_162
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 299
+        width: 50
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca37b76aedd59594da51451d76c12613
+      internalID: -991881617349799137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_163
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 299
+        width: 74
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36564074ec83b9f4b98282ba103e6431
+      internalID: 7515686070514447098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_164
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 299
+        width: 74
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377106998bc16a74ab889fc0842754fb
+      internalID: 5692439315720574570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_165
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 299
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855632acff3f7814a9ef9c36410a7547
+      internalID: 4725683796663996159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_166
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 299
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4f81a206ea6bf42b68665e2b2c2056
+      internalID: -8341626649356027282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_167
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 299
+        width: 47
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf9c8d43aee95d478d1e1f6cc13e4a0
+      internalID: -3572213710677463510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_168
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 271
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9db48052ce5a724c90160346f7a2edd
+      internalID: -5718589024817579824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_169
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 269
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984fc81ef28104e4e91c41a1f361f6d8
+      internalID: 6917828159545548215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_170
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 265
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815d003fbae5ecf46a59573b8c787ea4
+      internalID: -4230170954171297760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_171
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 265
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536c3e1722d878c4db494129431431fb
+      internalID: -7579634037848272806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_172
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 269
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e9017140897f7418ce5132b098d9ed
+      internalID: -7138965006043080801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_173
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 269
+        width: 50
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696720b8411d7f4448bee4b8f69d483a
+      internalID: -5951863631828772892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_174
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 265
+        width: 99
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff95e4790ccd718429ceb7153fa436e5
+      internalID: 8810241992634488824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_175
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 265
+        width: 110
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941abf3b861d1ce418f30a1af8099415
+      internalID: 1547741362154786883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_176
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 271
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6a8aa6a7046374195c8a3fb0161a45
+      internalID: -1342844702222588216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_177
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 269
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1763c7b7d7b5b044af7a769c124abaf
+      internalID: 5480343156101409750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_178
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 265
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c91a449fca26f44860722adca88b43
+      internalID: 2604057644913246124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_179
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 265
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2552a2b685900a74980825de7b13b346
+      internalID: 1475985164973279185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_180
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 269
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfecdbd6a3960e46a57bd1db5f7b499
+      internalID: -6222837847053281168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_181
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 271
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe882d6c6964d348b822ff5089ba8dd
+      internalID: 3555867768856031466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_182
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 265
+        width: 99
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562f63e87f6ddb0488974d342d45e665
+      internalID: 4980440441013857199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_183
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 265
+        width: 110
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cabba7078252be4d9c111b77510357f
+      internalID: -601189083985817514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_184
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 272
+        width: 160
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c5d3580a4bb7148aed5ddb437f9eba
+      internalID: -2161015393669769850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_185
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 275
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f486c29f8421b104bb7b4c9861aadd36
+      internalID: 1429188315827626927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_186
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 275
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77edae836b62e7438f29843e73027b6
+      internalID: 9201152946328682351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_187
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 108
+        width: 39
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d1036145a67534fab40126c975863d
+      internalID: 6980749165975969074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_188
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 108
+        width: 38
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c871a714c6e67b4b8f40700f062e109
+      internalID: 1011521226018212194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_189
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 108
+        width: 40
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9967fa7d5805e43ab07463666c1efe
+      internalID: 6263340271270935386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_190
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 108
+        width: 38
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e718bd7539ce144955b505e5bce53e
+      internalID: 7057555958075036626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_191
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 108
+        width: 38
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b349dbf2c7de34a8865f576f8a179e
+      internalID: -6366904400374338328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_192
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 108
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30de32719cf41e409795613e663bc6d
+      internalID: -6079491170752926023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_193
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 108
+        width: 51
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee22b3a18e6a3db4c957fefd7af17320
+      internalID: -396189007729502144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_194
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 108
+        width: 58
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242caa992d77578468c3d0bcb7cc43af
+      internalID: -5219237397643959123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_195
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 108
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d46daa9f83b4e749b1f2717fdcbc760
+      internalID: 367900332048291359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_196
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 108
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70debc4620c5b9443909e099ddf64d22
+      internalID: 1095062729719986239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_197
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 108
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd254b023ae83c847983e4e8ac9a02ab
+      internalID: 3349364639828443763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_198
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 108
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8f3997f4972ed4a8731597a7348640
+      internalID: 2827583827236959911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_199
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 108
+        width: 29
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26086b1b241b3b7468c25be17a43e6da
+      internalID: 5859238079516578851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_200
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 117
+        width: 56
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5346053cd127500498f51b27d4875f8e
+      internalID: -7999375602406221050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_201
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 156
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68b830cbced90444b863b51a376deb8
+      internalID: 8836780422460080008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_202
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 108
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed279182fe9b95d4f9f2dcc6eff40c22
+      internalID: -1818099191656066669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_203
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 144
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21d07021e1a4a34d8d44876d11dfac2
+      internalID: -1180408784746973927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_204
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 133
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedec8282aea7894d86d83bc6bbc8225
+      internalID: 6986964701608881883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_205
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 108
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8047271d29ea045a297b88dfdcc992
+      internalID: -8861864950428196717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_206
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 108
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed6c7b5d037f134881aef140112782e
+      internalID: 1563247584664072236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_207
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 108
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acd86614d224064e9bd149bcb058e47
+      internalID: -345780010269238628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_208
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 119
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313078480f7f6fa458a706b2d895b023
+      internalID: 2488275685906049336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_209
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 108
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c84b04a4caa81f46a94ed27ec3ced88
+      internalID: 1818703628898180017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_210
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 112
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2496fae2ad5fe5459c7409a7272b729
+      internalID: -123794556879360912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_211
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 108
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8971242a814ac44a5e6ae94c7d9245
+      internalID: -135370265683569946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_212
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 39
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bfdedd88dfc414f86364b2df754c27
+      internalID: -2179810438486178289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_213
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 35
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb7e16a017625e4e8a310fd730ac0b2
+      internalID: -2065519929798047857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_214
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80600ce4e961d804d9dc220055e340da
+      internalID: 1731437235691193022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_215
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 31
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a1c1d15a04f1d40b4906c4d321cb92
+      internalID: -1923453061123388668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_216
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 35
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0301b46c71012449e4987db4034ec2
+      internalID: 503687747943721293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_217
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 0
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54caa0da0a4bb704ab58b0bffd70cc1f
+      internalID: -3074750585632584336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_218
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea21ea69f7f18b45a3cb49f541b8bb9
+      internalID: 8884571541423692851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_219
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc659845a6a23424e9d4fbf88ac73e0d
+      internalID: -7998748331383493692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrop_sprite_sheet_220
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f219956f5da1a44ebf8da1237dbca52
+      internalID: 895635267498586094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
