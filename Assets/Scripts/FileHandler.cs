@@ -1,9 +1,12 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
+using System.Threading;
 using UnityEngine;
 
-public class FileHandler : MonoBehaviour
+public sealed class FileHandler : MonoBehaviour
 {
+	private static readonly FileHandler _instance = new FileHandler();
 
 	public const string P1_PREFABS_NAME = "P1_Prefabs";
 	public const string P2_PREFABS_NAME = "P2_Prefabs";
@@ -11,6 +14,87 @@ public class FileHandler : MonoBehaviour
 	public const string FR_PREFABS_NAME = "FriendRequest_Prefabs";
 	public const string FRIENDS_PREFABS_NAME = "Friends_Prefabs";
 	public const string CONTROLS = "Controls";
+
+	private List<string> _p1Prefabs;
+	private List<string> _p2Prefabs;
+	private List<string> _worldPrefabs;
+	private List<string> _friendRequests;
+	private List<string> _friends;
+	private List<string> _controls;
+
+	private FileHandler() {
+		_p1Prefabs = Load(P1_PREFABS_NAME, ',');
+		_p2Prefabs = Load(P2_PREFABS_NAME, ',');
+		_worldPrefabs = Load(WORLD_PREFABS_NAME, ',');
+		_friendRequests = Load(FR_PREFABS_NAME, ',');
+		_friends = Load(FRIENDS_PREFABS_NAME, ',');
+		_controls = Load(CONTROLS, ',');
+	}
+
+	public static FileHandler GetFileHandler() {
+		return _instance;
+	}
+
+	public List<string> P1Prefabs {
+		get {
+			return _p1Prefabs;
+		}
+	}
+	public List<string> P2Prefabs {
+		get {
+			return _p2Prefabs;
+		}
+	}
+	public List<string> WorldPrefabs {
+		get {
+			return _worldPrefabs;
+		}
+	}
+	public List<string> FriendRequests {
+		get {
+			return _friendRequests;
+		}
+	}
+	public List<string> Friends {
+		get {
+			return _friends;
+		}
+	}
+	public List<string> Controls {
+		get {
+			return _controls;
+		}
+	}
+
+	public void AddToList(string type, string name) {
+		switch(type) {
+			case P1_PREFABS_NAME:
+				_p1Prefabs.Add(name);
+				break;
+			case P2_PREFABS_NAME:
+				_p2Prefabs.Add(name);
+				break;
+			case WORLD_PREFABS_NAME:
+				_worldPrefabs.Add(name);
+				break;
+			case FR_PREFABS_NAME:
+				_friendRequests.Add(name);
+				break;
+			case FRIENDS_PREFABS_NAME:
+				_friends.Add(name);
+				break;
+			case CONTROLS:
+				_controls.Add(name);
+				break;
+		}
+	}
+
+	/*public static FileHandler Instance() {
+			get {
+			return instance;
+			}
+		}
+	*/
 
 	// Start is called before the first frame update
 	void Start()
@@ -33,21 +117,20 @@ public class FileHandler : MonoBehaviour
 		Save(FR_PREFABS_NAME, fr);
 	}
 
-	public string[] Load(string item, char splitChr) {
+	public List<string> Load(string item, char splitChr) {
 		if(PlayerPrefs.HasKey(item)) {
-			return PlayerPrefs.GetString(item).Split(splitChr);
+			string[] returnList = PlayerPrefs.GetString(item).Split(splitChr);
+			List<string> stringList = new List<string>();
+			foreach(string bit in returnList) {
+				stringList.Add(bit);
+			}
+			return stringList;
 		} else {
-			return null;
+			return new List<string>();
 		}
 	}
-
 	public void Save(string item, string data) {
 		PlayerPrefs.SetString(item, data);
-	}
-
-	public void AddToList(string from, string newItem) {
-		string[] list = Load(from)
-
 	}
 
 
@@ -58,7 +141,7 @@ public class FileHandler : MonoBehaviour
 
 	public List<KeyCode> LoadControls() {
 		List<KeyCode> keyList = new List<KeyCode>();
-		string[] intentStrings = Load(FileHandler.CONTROLS, ',');
+		string[] intentStrings = _controls.ToArray(); //Load(FileHandler.CONTROLS, ',');
 		if(intentStrings == null) {
 			return CreateDefaultKeys();
 		}

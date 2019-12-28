@@ -27,7 +27,7 @@ public class ButtonSequence : MonoBehaviour
 			Animator anim = transform.GetComponent<Animator>();
 			chr = transform.GetComponent<Character>();
 			intent = chr.mob.intent;
-			code = intent.GetIntentKeys();
+			code = FileHandler.GetFileHandler().LoadControls();
 			isPressed = new bool[code.Count];
 			for(int i = 0; i < code.Count; i++) {
 				isPressed[i] = false;

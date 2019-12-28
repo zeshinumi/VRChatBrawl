@@ -62,7 +62,6 @@ public class Intent
 		moveJump = pMoveJump;
 		atkQuick = pAtkQuick;
 		atkHeavy = pAtkHeavy;
-		files = new FileHandler();
 		keys = files.LoadControls();
 	}
 
@@ -85,14 +84,14 @@ public class Intent
 		keys = files.ResetKeys();
 	}
 
-	private List<KeyCode> GetSetKeys() {
+	/*private List<KeyCode> GetSetKeys() {
 		List<KeyCode> keyList = new List<KeyCode>();
-		string[] intentStrings = files.Load(FileHandler.CONTROLS, ',');
+		string[] intentStrings = FileHandler.GetFileHandler().Controls.ToArray();// files.Load(FileHandler.CONTROLS, ',');
 		for(int i = 0; i < intentStrings.Length; i++) {
 			keyList.Add((KeyCode)System.Enum.Parse(typeof(KeyCode), intentStrings[i]));
 		}
 		return keyList;
-	}
+	}*/
 
 	public bool SetNewKey(KeyCode oldKeyCode, KeyCode newKey) {
 		int oldIntent = KeyToIntent(oldKeyCode);

@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{E3E2C8B9-2112-A414-9884-0977C89F4C6A}</ProjectGuid>
+    <ProjectGuid>{0B80CA05-A5B0-F54A-0544-E539E19303FF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -72,28 +72,28 @@
     <Compile Include="Assets\Luke Peek\Extensions\Particle Scaler Utility\Editor\ParticleScalerUtility.cs" />
     <None Include="Assets\codeandweb.com\Editor\SettingsTexturePackerImporter.txt" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>E:/VRCBrawl/VRChat Brawl/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>E:/VRCBrawl/VRChatBrawl/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>E:/VRCBrawl/VRChat Brawl/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>E:/VRCBrawl/VRChatBrawl/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>E:/VRCBrawl/VRChat Brawl/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>E:/VRCBrawl/VRChatBrawl/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>E:/VRCBrawl/VRChat Brawl/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>E:/VRCBrawl/VRChatBrawl/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>E:/VRCBrawl/VRChat Brawl/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>E:/VRCBrawl/VRChatBrawl/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>E:/VRCBrawl/VRChat Brawl/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+      <HintPath>E:/VRCBrawl/VRChatBrawl/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>E:/VRCBrawl/VRChat Brawl/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+      <HintPath>E:/VRCBrawl/VRChatBrawl/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>E:/VRCBrawl/VRChat Brawl/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>E:/VRCBrawl/VRChatBrawl/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -297,22 +297,22 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="TexturePackerImporter">
-      <HintPath>E:/VRCBrawl/VRChat Brawl/Assets/codeandweb.com/Editor/TexturePackerImporter.dll</HintPath>
+      <HintPath>E:/VRCBrawl/VRChatBrawl/Assets/codeandweb.com/Editor/TexturePackerImporter.dll</HintPath>
     </Reference>
     <Reference Include="ch.sycoforge.Combine">
-      <HintPath>E:/VRCBrawl/VRChat Brawl/Assets/nu Assets/Easy Combine/Scripts/ch.sycoforge.Combine.dll</HintPath>
+      <HintPath>E:/VRCBrawl/VRChatBrawl/Assets/nu Assets/Easy Combine/Scripts/ch.sycoforge.Combine.dll</HintPath>
     </Reference>
     <Reference Include="ch.sycoforge.Combine.Editor">
-      <HintPath>E:/VRCBrawl/VRChat Brawl/Assets/nu Assets/Easy Combine/Scripts/Editor/ch.sycoforge.Combine.Editor.dll</HintPath>
+      <HintPath>E:/VRCBrawl/VRChatBrawl/Assets/nu Assets/Easy Combine/Scripts/Editor/ch.sycoforge.Combine.Editor.dll</HintPath>
     </Reference>
     <Reference Include="ch.sycoforge.Unity.Runtime">
-      <HintPath>E:/VRCBrawl/VRChat Brawl/Assets/nu Assets/Shared/Scripts/ch.sycoforge.Unity.Runtime.dll</HintPath>
+      <HintPath>E:/VRCBrawl/VRChatBrawl/Assets/nu Assets/Shared/Scripts/ch.sycoforge.Unity.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="ch.sycoforge.Unity.Editor">
-      <HintPath>E:/VRCBrawl/VRChat Brawl/Assets/nu Assets/Shared/Scripts/Editor/ch.sycoforge.Unity.Editor.dll</HintPath>
+      <HintPath>E:/VRCBrawl/VRChatBrawl/Assets/nu Assets/Shared/Scripts/Editor/ch.sycoforge.Unity.Editor.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>E:/VRCBrawl/VRChat Brawl/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>E:/VRCBrawl/VRChatBrawl/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.5f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -677,7 +677,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{B676A9D9-3FC6-9B40-400D-6B2295CDEC08}</Project>
+      <Project>{0FDD1208-E96A-612F-6B02-5A9A8FF97BBA}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
   </ItemGroup>

@@ -15,7 +15,7 @@ public class LoadLevel : MonoBehaviour
   // Start is called before the first frame update
   void Awake()
   {
-		string[] chrsPrefabs = files.Load(FileHandler.P1_PREFABS_NAME, ':');
+		string[] chrsPrefabs = files.Load(FileHandler.P1_PREFABS_NAME, ':').ToArray();
 		ProfileHud p1_hud = MainCamera.GetComponentInChildren<ProfileHud>();
 		p1_hud.Start();
 		for(int i = 0; i < chrsPrefabs.Length; i++) {			
