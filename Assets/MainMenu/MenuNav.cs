@@ -9,6 +9,11 @@ public class MenuNav : MonoBehaviour
 			SceneManager.LoadScene("HomeWorld");
 		}
 
+		public void NewGame() {
+			FileHandler.GetFileHandler().NewGame();
+			PlayGame();
+		}
+
 		public void QuitGame() {
 			Application.Quit();
 		}

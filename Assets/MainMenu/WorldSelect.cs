@@ -10,41 +10,17 @@ public class WorldSelect : MonoBehaviour {
 	private List<GameObject> worlds;
 	private List<GameObject> frs;
 	private List<GameObject> friends;
-	private string WORLD_PREFABS_NAME = "World_Prefabs";
-	private string FR_PREFABS_NAME = "FriendRequest_Prefabs";
-	private string FRIENDS_PREFABS_NAME = "Friends_Prefabs";
 
 	private Transform worldT;
 	private Transform frT;
 	private Transform friendsT;
 
+	FileHandler filer;
+
 	// Start is called before the first frame update
 	void Start() {
-		string[] worldPrefabs = GetWorldPrefabs();
-		string[] frPrefabs = GetFRPrefabs();
-		string[] friendsPrefabs = GetFriendsprefabs();
-		worldT = transform.Find("Worlds");
-		frT = transform.Find("FR");
-		friendsT = transform.Find("Friends");
-		mousePrevX = Input.mousePosition.x;
-		worlds = new List<GameObject>();
-		frs = new List<GameObject>();
-		friends = new List<GameObject>();
-		Vector3 curPos = new Vector3(worldT.position.x-180, worldT.position.y, worldT.position.z);
-		for(int i = 0; i < worldPrefabs.Length; i++) {
-			worlds.Add(Instantiate(Resources.Load("Worlds/" + worldPrefabs[i]) as GameObject, curPos, Quaternion.identity, worldT));
-			curPos = new Vector3(curPos.x + 130, curPos.y, curPos.z);
-		}
-		curPos = new Vector3(frT.position.x - 180, frT.position.y, frT.position.z);
-		for(int i = 0; i < frPrefabs.Length; i++) {
-			frs.Add(Instantiate(Resources.Load("ProfilePics/" + frPrefabs[i]) as GameObject, curPos, Quaternion.identity, frT));
-			curPos = new Vector3(curPos.x + 130, curPos.y, curPos.z);
-		}
-		curPos = new Vector3(friendsT.position.x - 180, friendsT.position.y, friendsT.position.z);
-		for(int i = 0; i < friendsPrefabs.Length; i++) {
-			friends.Add(Instantiate(Resources.Load("ProfilePics_NF/" + friendsPrefabs[i]) as GameObject, curPos, Quaternion.identity, friendsT));
-			curPos = new Vector3(curPos.x + 130, curPos.y, curPos.z);
-		}
+		filer = FileHandler.GetFileHandler();
+		PopulateLists();
 	}
 
   // Update is called once per frame
@@ -69,33 +45,55 @@ public class WorldSelect : MonoBehaviour {
 				friendsT.position = new Vector3(prevPos.x + (Input.mousePosition.x - mousePrevX), prevPos.y, prevPos.z);
 			}
 		}
+		if(filer.ItemChanged) {
+			ClearAllLists();
+			PopulateLists();
+			filer.ItemChanged = false;
+		}
   }
+
+	private void ClearAllLists() {
+		foreach(GameObject world in worlds) {
+			GameObject.Destroy(world);
+		}
+		foreach(GameObject fr in frs) {
+			GameObject.Destroy(fr);
+		}
+		foreach(GameObject friend in friends) {
+			GameObject.Destroy(friend);
+		}
+	}
+
+	private void PopulateLists() {
+		List<string> p1Prefabs = filer.P1Prefabs;
+		List<string> worldPrefabs = filer.WorldPrefabs;
+		List<string> frPrefabs = filer.FriendRequests;
+		List<string> friendsPrefabs = filer.Friends;
+		worldT = transform.Find("Worlds");
+		frT = transform.Find("FR");
+		friendsT = transform.Find("Friends");
+		mousePrevX = Input.mousePosition.x;
+		worlds = new List<GameObject>();
+		frs = new List<GameObject>();
+		friends = new List<GameObject>();
+		Vector3 curPos = new Vector3(worldT.position.x - 180, worldT.position.y, worldT.position.z);
+		for(int i = 0; i < worldPrefabs.Count; i++) {
+			worlds.Add(Instantiate(Resources.Load("Worlds/" + worldPrefabs[i]) as GameObject, curPos, Quaternion.identity, worldT));
+			curPos = new Vector3(curPos.x + 130, curPos.y, curPos.z);
+		}
+		curPos = new Vector3(frT.position.x - 180, frT.position.y, frT.position.z);
+		for(int i = 0; i < frPrefabs.Count; i++) {
+			frs.Add(Instantiate(Resources.Load("ProfilePics/" + frPrefabs[i]) as GameObject, curPos, Quaternion.identity, frT));
+			curPos = new Vector3(curPos.x + 130, curPos.y, curPos.z);
+		}
+		curPos = new Vector3(friendsT.position.x - 180, friendsT.position.y, friendsT.position.z);
+		for(int i = 0; i < friendsPrefabs.Count; i++) {
+			friends.Add(Instantiate(Resources.Load("ProfilePics_NF/" + friendsPrefabs[i]) as GameObject, curPos, Quaternion.identity, friendsT));
+			curPos = new Vector3(curPos.x + 130, curPos.y, curPos.z);
+		}
+	}
 
 	public void LoadScene(string scene) {
 		SceneManager.LoadScene(scene);
-	}
-
-	private string[] GetWorldPrefabs() {
-		if(PlayerPrefs.HasKey(WORLD_PREFABS_NAME)) {
-			return PlayerPrefs.GetString(WORLD_PREFABS_NAME).Split(':');
-		} else {
-			return new string[3] { "Pug", "Pug", "Pug" };
-		}
-	}
-
-	private string[] GetFRPrefabs() {
-		if(PlayerPrefs.HasKey(FR_PREFABS_NAME)) {
-			return PlayerPrefs.GetString(FR_PREFABS_NAME).Split(':');
-		} else {
-			return new string[3] { "Zeshin", "Ryan", "Scorpion" };
-		}
-	}
-
-	private string[] GetFriendsprefabs() {
-		if(PlayerPrefs.HasKey(FRIENDS_PREFABS_NAME)) {
-			return PlayerPrefs.GetString(FRIENDS_PREFABS_NAME).Split(':');
-		} else {
-			return new string[3] { "Zeshin", "Ryan", "Scorpion" };
-		}
 	}
 }

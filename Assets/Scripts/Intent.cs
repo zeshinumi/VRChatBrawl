@@ -47,9 +47,8 @@ public class Intent
 	public int useSpecial;
 
 	private List<KeyCode> keys;
-
 	FileHandler files;
-
+	
 	public Intent(
 		int pMoveLeftRight = DONT_USE,
 		int pMoveUpDown = DONT_USE,
@@ -57,6 +56,7 @@ public class Intent
 		bool pAtkQuick = false,
 		bool pAtkHeavy = false
 		) {
+		files = FileHandler.GetFileHandler();
 		moveLeftRight = pMoveLeftRight;
 		moveUpDown = pMoveUpDown;
 		moveJump = pMoveJump;
@@ -83,15 +83,6 @@ public class Intent
 	public void ResetKeys() {
 		keys = files.ResetKeys();
 	}
-
-	/*private List<KeyCode> GetSetKeys() {
-		List<KeyCode> keyList = new List<KeyCode>();
-		string[] intentStrings = FileHandler.GetFileHandler().Controls.ToArray();// files.Load(FileHandler.CONTROLS, ',');
-		for(int i = 0; i < intentStrings.Length; i++) {
-			keyList.Add((KeyCode)System.Enum.Parse(typeof(KeyCode), intentStrings[i]));
-		}
-		return keyList;
-	}*/
 
 	public bool SetNewKey(KeyCode oldKeyCode, KeyCode newKey) {
 		int oldIntent = KeyToIntent(oldKeyCode);

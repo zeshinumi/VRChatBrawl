@@ -21,8 +21,13 @@ public sealed class FileHandler : MonoBehaviour
 	private List<string> _friendRequests;
 	private List<string> _friends;
 	private List<string> _controls;
+	private bool _itemChanged;
 
 	private FileHandler() {
+		LoadAllLists();
+	}
+
+	private void LoadAllLists() {
 		_p1Prefabs = Load(P1_PREFABS_NAME, ',');
 		_p2Prefabs = Load(P2_PREFABS_NAME, ',');
 		_worldPrefabs = Load(WORLD_PREFABS_NAME, ',');
@@ -65,56 +70,58 @@ public sealed class FileHandler : MonoBehaviour
 			return _controls;
 		}
 	}
-
-	public void AddToList(string type, string name) {
-		switch(type) {
-			case P1_PREFABS_NAME:
-				_p1Prefabs.Add(name);
-				break;
-			case P2_PREFABS_NAME:
-				_p2Prefabs.Add(name);
-				break;
-			case WORLD_PREFABS_NAME:
-				_worldPrefabs.Add(name);
-				break;
-			case FR_PREFABS_NAME:
-				_friendRequests.Add(name);
-				break;
-			case FRIENDS_PREFABS_NAME:
-				_friends.Add(name);
-				break;
-			case CONTROLS:
-				_controls.Add(name);
-				break;
+	public bool ItemChanged {
+		get {
+			return _itemChanged;
+		}
+		set {
+			_itemChanged = value;
 		}
 	}
 
-	/*public static FileHandler Instance() {
-			get {
-			return instance;
-			}
+	public void AlterList(bool doAdd, string type, string name) {
+		switch(type) {
+			case P1_PREFABS_NAME:
+				AlterNSave(_p1Prefabs, type, name, doAdd);
+				break;
+			case P2_PREFABS_NAME:
+				AlterNSave(_p2Prefabs, type, name, doAdd);
+				break;
+			case WORLD_PREFABS_NAME:
+				AlterNSave(_worldPrefabs, type, name, doAdd);
+				break;
+			case FR_PREFABS_NAME:
+				AlterNSave(_friendRequests, type, name, doAdd);
+				break;
+			case FRIENDS_PREFABS_NAME:
+				AlterNSave(_friends, type, name, doAdd);
+				break;
+			case CONTROLS:
+				AlterNSave(_controls, type, name, doAdd);
+				break;
 		}
-	*/
-
-	// Start is called before the first frame update
-	void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+	}
+	private void AlterNSave(List<string> list, string type, string name, bool add) {
+		if(add) {
+			list.Add(name);
+		} else {
+			list.Remove(name);
+		}
+		list.Sort();
+		Save(type, string.Join(",", list));
+		_itemChanged = true;
+	}
 
 	public void NewGame() {
 		string worlds = "Pug";
 		string players = "Zeshin";
-		string fr = "Ryan:Scorpian";
+		string fr = "Ryan,Scorpion";
 		Save(P1_PREFABS_NAME, players);
+		Save(P2_PREFABS_NAME, players);
 		Save(WORLD_PREFABS_NAME, worlds);
 		Save(FR_PREFABS_NAME, fr);
+		Save(FRIENDS_PREFABS_NAME, players);
+		LoadAllLists();
 	}
 
 	public List<string> Load(string item, char splitChr) {
@@ -122,7 +129,8 @@ public sealed class FileHandler : MonoBehaviour
 			string[] returnList = PlayerPrefs.GetString(item).Split(splitChr);
 			List<string> stringList = new List<string>();
 			foreach(string bit in returnList) {
-				stringList.Add(bit);
+				if(bit != "")
+					stringList.Add(bit);
 			}
 			return stringList;
 		} else {

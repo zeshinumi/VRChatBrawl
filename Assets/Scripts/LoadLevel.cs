@@ -15,10 +15,10 @@ public class LoadLevel : MonoBehaviour
   // Start is called before the first frame update
   void Awake()
   {
-		string[] chrsPrefabs = files.Load(FileHandler.P1_PREFABS_NAME, ':').ToArray();
+		List<string> chrsPrefabs = FileHandler.GetFileHandler().P1Prefabs; //files.Load(FileHandler.P1_PREFABS_NAME, ':').ToArray();
 		ProfileHud p1_hud = MainCamera.GetComponentInChildren<ProfileHud>();
 		p1_hud.Start();
-		for(int i = 0; i < chrsPrefabs.Length; i++) {			
+		for(int i = 0; i < chrsPrefabs.Count; i++) {			
 			GameObject newChar = Instantiate(Resources.Load("Characters/" + chrsPrefabs[i]) as GameObject, transform.position, Quaternion.identity);
 			newChar.GetComponent<Character>().isPlayer = true;
 			newChar.GetComponent<Character>().SetButtonSequence();
