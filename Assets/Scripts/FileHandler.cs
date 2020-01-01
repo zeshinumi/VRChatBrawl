@@ -115,7 +115,8 @@ public sealed class FileHandler : MonoBehaviour
 	public void NewGame() {
 		string worlds = "Pug";
 		string players = "Zeshin";
-		string fr = "Ryan,Scorpion";
+		//string fr = "Ryan,Scorpion";
+		string fr = "";
 		Save(P1_PREFABS_NAME, players);
 		Save(P2_PREFABS_NAME, players);
 		Save(WORLD_PREFABS_NAME, worlds);

@@ -9915,7 +9915,7 @@ GameObject:
   - component: {fileID: 2353081485848563878}
   - component: {fileID: 2353081485848563879}
   m_Layer: 10
-  m_Name: Scorpian
+  m_Name: Scorpion
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

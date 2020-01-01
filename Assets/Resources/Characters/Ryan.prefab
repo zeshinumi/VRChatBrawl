@@ -4955,7 +4955,7 @@ GameObject:
   - component: {fileID: 4081785310067782953}
   - component: {fileID: 4081785310067782951}
   - component: {fileID: 4081785310067782950}
-  m_Layer: 9
+  m_Layer: 10
   m_Name: Ryan
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5059,7 +5059,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68ce7ba0878e7a04db580bfc067e0b49, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isPlayer: 1
+  isPlayer: 0
   runSpeed: 8
   jumpHeight: 25
   HP: 100

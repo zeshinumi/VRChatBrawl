@@ -60,9 +60,9 @@ public class ProfileHud : MonoBehaviour
 		}
 
 		if(chr.mob.isDead) {
-			if(!characters[SEC_CHR].GetComponent<Character>().mob.isDead) {
+			if(characters[SEC_CHR] != null && !characters[SEC_CHR].GetComponent<Character>().mob.isDead) {
 				SwapChr(characters[SEC_CHR].GetComponent<Character>(), characters[MAIN_CHR].transform.position, SEC_CHR);
-			} else if(!characters[THR_CHR].GetComponent<Character>().mob.isDead) {
+			} else if(characters[THR_CHR] != null && !characters[THR_CHR].GetComponent<Character>().mob.isDead) {
 				SwapChr(characters[THR_CHR].GetComponent<Character>(), characters[MAIN_CHR].transform.position, THR_CHR);
 			} else {
 				transform.Find("FTB").gameObject.SetActive(true);

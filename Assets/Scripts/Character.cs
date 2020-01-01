@@ -83,6 +83,7 @@ public class Character : MonoBehaviour
 			if(enemy!=null)
 				enemy.GetComponent<Character>().AddSpecial(dmg/2);
 			if(curHP <= 0) {
+				SendFriendRequest();
 				mob.KillChr();
 				if(spawner != null) {
 					spawner.GetComponent<Spawner>().RemoveSpawned();
@@ -94,6 +95,14 @@ public class Character : MonoBehaviour
 			AddSpecial(1);
 		}
 		return !wasBlocking && isBlocking;
+	}
+
+	private void SendFriendRequest() {
+		string chrName = gameObject.name.Replace("(Clone)", "");
+		if(Random.Range(0, 100) >= 0 && !FileHandler.GetFileHandler().FriendRequests.Contains(chrName) && !FileHandler.GetFileHandler().Friends.Contains(chrName)) {
+			GameObject newChar = Instantiate(Resources.Load("Prefabs/Friended") as GameObject, transform.position, Quaternion.identity);
+			FileHandler.GetFileHandler().AlterList(true, FileHandler.FR_PREFABS_NAME, chrName);
+		}
 	}
 
 	private void PlayerUpdate() {
